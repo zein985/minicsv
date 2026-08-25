@@ -1,0 +1,1879 @@
+id,音效名,备注,插件库开放[0代表不开放，1=开放 ],触发器开放[0代表不开放，1=开放 ],分类（1=脚步，2=行为，3=受击，4=待机，5=技能，6=环境，7=背景音乐，8=提示，9=其它）,音效路径,图标名字,时长(ms)
+ID,Name,,AtkEffectTypeSID,TriggerType,Type,SoundPath,IconName,Duration
+10000,cloth1,,0,0,2,blockd.cloth1,sounds02,214
+10001,cloth2,,0,0,2,blockd.cloth2,sounds02,325
+10002,cloth3,,0,1,2,blockd.cloth3,sounds02,245
+10003,cloth4,,0,0,2,blockd.cloth4,sounds02,325
+10004,glass1,,0,0,2,blockd.glass1,sounds02,592
+10005,glass2,,0,1,2,blockd.glass2,sounds02,592
+10006,glass3,,0,1,2,blockd.glass3,sounds02,592
+10007,grass1,,0,1,2,blockd.grass1,sounds02,513
+10008,grass2,,0,0,2,blockd.grass2,sounds02,513
+10009,grass3,,0,0,2,blockd.grass3,sounds02,500
+10010,grass4,,0,1,2,blockd.grass4,sounds02,494
+10011,gravel1,,0,1,2,blockd.gravel1,sounds02,595
+10012,gravel2,,0,0,2,blockd.gravel2,sounds02,510
+10013,gravel3,,0,0,2,blockd.gravel3,sounds02,464
+10014,gravel4,,0,0,2,blockd.gravel4,sounds02,373
+10015,jar1,,0,1,2,blockd.jar1,sounds02,1500
+10016,jar2,,0,0,2,blockd.jar2,sounds02,1500
+10017,jar3,,0,0,2,blockd.jar3,sounds02,1000
+10018,sand1,,0,1,2,blockd.sand1,sounds02,291
+10019,sand2,,0,0,2,blockd.sand2,sounds02,375
+10020,sand3,,0,0,2,blockd.sand3,sounds02,293
+10021,sand4,,0,0,2,blockd.sand4,sounds02,312
+10022,snow1,,0,1,2,blockd.snow1,sounds02,355
+10023,snow2,,0,0,2,blockd.snow2,sounds02,325
+10024,snow3,,0,0,2,blockd.snow3,sounds02,348
+10025,snow4,,0,0,2,blockd.snow4,sounds02,366
+10026,stone1,,0,1,2,blockd.stone1,sounds02,139
+10027,stone2,,0,0,2,blockd.stone2,sounds02,261
+10028,stone3,,0,0,2,blockd.stone3,sounds02,161
+10029,stone4,,0,0,2,blockd.stone4,sounds02,145
+10030,wood1,,0,1,2,blockd.wood1,sounds02,135
+10031,wood2,,0,0,2,blockd.wood2,sounds02,212
+10032,wood3,,0,0,2,blockd.wood3,sounds02,133
+10033,wood4,,0,0,2,blockd.wood4,sounds02,120
+10034,cloth1,,0,1,2,blocks.cloth1,sounds02,250
+10035,cloth2,,0,0,2,blocks.cloth2,sounds02,250
+10036,cloth3,,0,0,2,blocks.cloth3,sounds02,250
+10037,cloth4,,0,0,2,blocks.cloth4,sounds02,250
+10038,cloth5,,0,0,2,blocks.cloth5,sounds02,250
+10039,grass1,,0,1,2,blocks.grass1,sounds02,500
+10040,grass2,,0,0,2,blocks.grass2,sounds02,500
+10041,grass3,,0,0,2,blocks.grass3,sounds02,500
+10042,grass4,,0,0,2,blocks.grass4,sounds02,500
+10043,grass5,,0,0,2,blocks.grass5,sounds02,500
+10044,grass6,,0,0,2,blocks.grass6,sounds02,500
+10045,gravel1,,0,1,2,blocks.gravel1,sounds02,375
+10046,gravel2,,0,0,2,blocks.gravel2,sounds02,375
+10047,gravel3,,0,0,2,blocks.gravel3,sounds02,375
+10048,gravel4,,0,0,2,blocks.gravel4,sounds02,375
+10049,gravel5,,0,0,2,blocks.gravel5,sounds02,375
+10050,gravel6,,0,0,2,blocks.gravel6,sounds02,375
+10051,ladder1,,0,1,2,blocks.ladder1,sounds02,530
+10052,ladder2,,0,0,2,blocks.ladder2,sounds02,525
+10053,ladder3,,0,0,2,blocks.ladder3,sounds02,575
+10054,ladder4,,0,0,2,blocks.ladder4,sounds02,503
+10055,ladder5,,0,0,2,blocks.ladder5,sounds02,580
+10056,sand1,,0,1,2,blocks.sand1,sounds02,375
+10057,sand2,,0,0,2,blocks.sand2,sounds02,375
+10058,sand3,,0,0,2,blocks.sand3,sounds02,375
+10059,sand4,,0,0,2,blocks.sand4,sounds02,375
+10060,sand5,,0,0,2,blocks.sand5,sounds02,375
+10061,snow1,,0,1,2,blocks.snow1,sounds02,466
+10062,snow2,,0,0,2,blocks.snow2,sounds02,466
+10063,snow3,,0,0,2,blocks.snow3,sounds02,466
+10064,snow4,,0,0,2,blocks.snow4,sounds02,466
+10065,snow5,,0,0,2,blocks.snow5,sounds02,466
+10066,stone1,,0,1,2,blocks.stone1,sounds02,466
+10067,stone2,,0,0,2,blocks.stone2,sounds02,466
+10068,stone3,,0,0,2,blocks.stone3,sounds02,466
+10069,stone4,,0,0,2,blocks.stone4,sounds02,466
+10070,stone5,,0,0,2,blocks.stone5,sounds02,466
+10071,stone6,,0,0,2,blocks.stone6,sounds02,466
+10072,wood1,,0,1,2,blocks.wood1,sounds02,500
+10073,wood2,,0,0,2,blocks.wood2,sounds02,500
+10074,wood3,,0,0,2,blocks.wood3,sounds02,500
+10075,wood4,,0,0,2,blocks.wood4,sounds02,500
+10076,wood5,,0,0,2,blocks.wood5,sounds02,500
+10077,wood6,,0,0,2,blocks.wood6,sounds02,500
+10078,buff_attack_1,,0,1,5,buff.buff_attack_1,sounds05,2750
+10079,buff_chicken,,0,1,5,buff.buff_chicken,sounds05,1135
+10080,buff_cow,,0,1,5,buff.buff_cow,sounds05,875
+10081,buff_damaged_1,,0,1,5,buff.buff_damaged_1,sounds05,2375
+10082,buff_damage_absorb,,0,1,5,buff.buff_damage_absorb,sounds05,2500
+10083,buff_dumpling,,0,1,5,buff.buff_dumpling,sounds05,864
+10084,buff_evil,,0,1,5,buff.buff_evil,sounds05,864
+10085,buff_fluorescence,,0,1,5,buff.buff_fluorescence,sounds05,3000
+10086,buff_freeze,,0,1,5,buff.buff_freeze,sounds05,1750
+10087,buff_hp_1,,0,1,5,buff.buff_hp_1,sounds05,2375
+10088,buff_light,,0,1,5,buff.buff_light,sounds05,280
+10089,buff_dundun,,0,1,5,buff.buff_dundun,sounds05,625
+10090,buff_pop,,0,1,5,buff.buff_pop,sounds05,182
+10091,buff_sheep,,0,1,5,buff.buff_sheep,sounds05,875
+10092,buff_sick_1,,0,1,5,buff.buff_sick_1,sounds05,750
+10093,buff_soccer,,0,1,5,buff.buff_soccer,sounds05,750
+10094,buff_speed_1,,0,1,5,buff.buff_speed_1,sounds05,1750
+10095,buff_wither_1,,0,1,5,buff.buff_wither_1,sounds05,3000
+10096,idle,,0,1,4,ent.3013.idle,sounds04,1463
+10097,idle1,,0,0,4,ent.3014.idle1,sounds04,1875
+10098,idle2,,0,0,4,ent.3014.idle2,sounds04,2375
+10099,idle1,,0,1,4,ent.3015.idle1,sounds04,4000
+10100,idle1,,0,0,4,ent.3016.idle1,sounds04,864
+10101,idle1,,0,1,4,ent.3017.idle1,sounds04,864
+10102,die,,0,1,3,ent.3018.die,sounds03,1375
+10103,foot,,0,1,1,ent.3018.foot,sounds01,875
+10104,hit1,,0,1,3,ent.3018.hit1,sounds03,625
+10105,hit2,,0,0,3,ent.3018.hit2,sounds03,500
+10106,idle1,,0,1,4,ent.3018.idle1,sounds04,1500
+10107,idle2,,0,1,4,ent.3018.idle2,sounds04,1500
+10108,idle3,,0,1,4,ent.3018.idle3,sounds04,1500
+10109,die,,0,1,3,ent.3101.die,sounds03,1000
+10110,dig1,,0,1,2,ent.3101.dig1,sounds02,875
+10111,dig2,,0,0,2,ent.3101.dig2,sounds02,875
+10112,dig3,,0,0,2,ent.3101.dig3,sounds02,875
+10113,dig4,,0,0,2,ent.3101.dig4,sounds02,875
+10114,digbreak,,0,1,2,ent.3101.digbreak,sounds02,1500
+10115,escape,,0,1,4,ent.3101.escape,sounds04,1250
+10116,foot1,,0,1,1,ent.3101.foot1,sounds01,250
+10117,foot2,,0,1,1,ent.3101.foot2,sounds01,250
+10118,foot3,,0,0,1,ent.3101.foot3,sounds01,250
+10119,foot4,,0,0,1,ent.3101.foot4,sounds01,250
+10120,foot5,,0,0,1,ent.3101.foot5,sounds01,250
+10121,foot6,,0,0,1,ent.3101.foot6,sounds01,250
+10122,hit1,,0,1,3,ent.3101.hit1,sounds03,875
+10123,hit2,,0,0,3,ent.3101.hit2,sounds03,625
+10124,idle1,,0,1,4,ent.3101.idle1,sounds04,1625
+10125,idle2,,0,1,4,ent.3101.idle2,sounds04,1625
+10126,idle3,,0,1,4,ent.3101.idle3,sounds04,1568
+10127,die,,0,1,3,ent.3102.die,sounds03,625
+10128,foot1,,0,0,1,ent.3102.foot1,sounds01,250
+10129,foot2,,0,0,1,ent.3102.foot2,sounds01,250
+10130,foot3,,0,0,1,ent.3102.foot3,sounds01,250
+10131,foot4,,0,0,1,ent.3102.foot4,sounds01,250
+10132,foot5,,0,0,1,ent.3102.foot5,sounds01,250
+10133,foot6,,0,0,1,ent.3102.foot6,sounds01,250
+10134,hit1,,0,1,3,ent.3102.hit1,sounds03,375
+10135,hit2,,0,0,3,ent.3102.hit2,sounds03,375
+10136,idle1,,0,1,4,ent.3102.idle1,sounds04,1250
+10137,idle2,,0,1,4,ent.3102.idle2,sounds04,1750
+10138,angry,,0,1,5,ent.3103.angry,sounds05,7000
+10139,die,,0,1,3,ent.3103.die,sounds03,4000
+10140,hit1,,0,1,3,ent.3103.hit1,sounds03,375
+10141,hit2,,0,0,3,ent.3103.hit2,sounds03,375
+10142,hit3,,0,0,3,ent.3103.hit3,sounds03,375
+10143,idle1,,0,1,4,ent.3103.idle1,sounds04,4000
+10144,idle2,,0,1,4,ent.3103.idle2,sounds04,4000
+10145,magic,,0,1,5,ent.3103.magic,sounds05,3000
+10146,die,,0,1,3,ent.3105.die,sounds03,1125
+10147,escape,,0,1,3,ent.3105.escape,sounds03,1250
+10148,foot1,,0,1,1,ent.3105.foot1,sounds01,634
+10149,foot2,,0,1,1,ent.3105.foot2,sounds01,531
+10150,foot3,,0,0,1,ent.3105.foot3,sounds01,478
+10151,foot4,,0,0,1,ent.3105.foot4,sounds01,481
+10152,hit1,,0,1,3,ent.3105.hit1,sounds03,750
+10153,hit2,,0,0,3,ent.3105.hit2,sounds03,625
+10154,hit3,,0,0,3,ent.3105.hit3,sounds03,625
+10155,idle1,,0,1,4,ent.3105.idle1,sounds04,1625
+10156,idle2,,0,1,4,ent.3105.idle2,sounds04,1125
+10157,die,,0,1,3,ent.3107.die,sounds03,589
+10158,foot1,,0,1,1,ent.3107.foot1,sounds01,530
+10159,foot2,,0,0,1,ent.3107.foot2,sounds01,530
+10160,foot3,,0,0,1,ent.3107.foot3,sounds01,563
+10161,foot4,,0,0,1,ent.3107.foot4,sounds01,563
+10162,hit1,,0,1,3,ent.3107.hit1,sounds03,615
+10163,hit2,,0,0,3,ent.3107.hit2,sounds03,504
+10164,hit3,,0,0,3,ent.3107.hit3,sounds03,750
+10165,idle1,,0,1,4,ent.3107.idle1,sounds04,740
+10166,idle2,,0,1,4,ent.3107.idle2,sounds04,875
+10167,idle3,,0,1,4,ent.3107.idle3,sounds04,875
+10168,idle4,,0,1,4,ent.3107.idle4,sounds04,687
+10169,die,,0,1,3,ent.3109.die,sounds03,875
+10170,foot1,,0,0,1,ent.3109.foot1,sounds01,250
+10171,hit1,,0,1,3,ent.3109.hit1,sounds03,500
+10172,hit2,,0,0,3,ent.3109.hit2,sounds03,500
+10173,idle1,,0,1,4,ent.3109.idle1,sounds04,1125
+10174,idle2,,0,1,4,ent.3109.idle2,sounds04,1125
+10175,prepare,,0,1,5,ent.3109.prepare,sounds05,1250
+10176,die,,0,1,3,ent.3110.die,sounds03,1000
+10177,escape,,0,1,4,ent.3110.escape,sounds04,1875
+10178,foot,,0,1,1,ent.3110.foot,sounds01,1000
+10179,hit1,,0,1,3,ent.3110.hit1,sounds03,250
+10180,hit2,,0,0,3,ent.3110.hit2,sounds03,250
+10181,hit3,,0,0,3,ent.3110.hit3,sounds03,250
+10182,idle1,,0,1,4,ent.3110.idle1,sounds04,1250
+10183,idle2,,0,1,4,ent.3110.idle2,sounds04,1250
+10184,idle3,,0,1,4,ent.3110.idle3,sounds04,1250
+10185,joint,,0,1,5,ent.3110.joint,sounds05,3000
+10186,projectile_throw,,0,1,2,ent.3110.projectile_throw,sounds02,2250
+10187,talk1,,0,1,4,ent.3110.talk1,sounds04,750
+10188,talk2,,0,1,4,ent.3110.talk2,sounds04,1500
+10189,talk3,,0,1,4,ent.3110.talk3,sounds04,1500
+10190,die,,0,1,3,ent.3111.die,sounds03,1000
+10191,hit1,,0,1,3,ent.3111.hit1,sounds03,500
+10192,hit2,,0,0,3,ent.3111.hit2,sounds03,500
+10193,hit3,,0,0,3,ent.3111.hit3,sounds03,500
+10194,idle1,,0,1,4,ent.3111.idle1,sounds04,750
+10195,idle2,,0,1,4,ent.3111.idle2,sounds04,750
+10196,idle3,,0,1,4,ent.3111.idle3,sounds04,750
+10197,projectile_throw,,0,0,2,ent.3111.projectile_throw,sounds02,1625
+10198,charge,,0,1,5,ent.3112.charge,sounds05,2000
+10199,die,,0,1,3,ent.3112.die,sounds03,875
+10200,hit1,,0,1,3,ent.3112.hit1,sounds03,250
+10201,hit2,,0,0,3,ent.3112.hit2,sounds03,250
+10202,hit3,,0,0,3,ent.3112.hit3,sounds03,250
+10203,idle1,,0,1,4,ent.3112.idle1,sounds04,750
+10204,idle2,,0,1,4,ent.3112.idle2,sounds04,750
+10205,idle3,,0,1,4,ent.3112.idle3,sounds04,750
+10206,projectile_hit,,0,1,5,ent.3112.projectile_hit,sounds05,1485
+10207,projectile_throw,,0,0,2,ent.3112.projectile_throw,sounds02,156
+10208,sprint,,0,1,5,ent.3112.sprint,sounds05,2000
+10209,split,,0,0,4,ent.3113.split,sounds04,1500
+10210,deal,,0,0,4,ent.3120.deal,sounds04,1500
+10211,die,,0,1,3,ent.3120.die,sounds03,1375
+10212,hit1,,0,1,3,ent.3120.hit1,sounds03,625
+10213,hit2,,0,0,3,ent.3120.hit2,sounds03,625
+10214,idle1,,0,0,4,ent.3120.idle1,sounds04,1500
+10215,idle2,,0,0,4,ent.3120.idle2,sounds04,1500
+10216,idle3,,0,0,4,ent.3120.idle3,sounds04,1500
+10217,die,,0,1,3,ent.3121.die,sounds03,1375
+10218,foot1,,0,0,1,ent.3121.foot1,sounds01,125
+10219,hit1,,0,1,3,ent.3121.hit1,sounds03,500
+10220,hit2,,0,0,3,ent.3121.hit2,sounds03,500
+10221,idle1,,0,0,4,ent.3121.idle1,sounds04,1125
+10222,idle2,,0,0,4,ent.3121.idle2,sounds04,1125
+10223,idle3,,0,0,4,ent.3121.idle3,sounds04,1125
+10224,die,,0,1,3,ent.3123.die,sounds03,1375
+10225,foot1,,0,0,1,ent.3123.foot1,sounds01,125
+10226,hit1,,0,1,3,ent.3123.hit1,sounds03,500
+10227,hit2,,0,0,3,ent.3123.hit2,sounds03,500
+10228,idle1,,0,0,4,ent.3123.idle1,sounds04,1125
+10229,idle2,,0,0,4,ent.3123.idle2,sounds04,1125
+10230,idle3,,0,0,4,ent.3123.idle3,sounds04,1125
+10231,die,,0,1,3,ent.3130.die,sounds03,2500
+10232,foot1,,0,1,1,ent.3130.foot1,sounds01,250
+10233,foot2,,0,1,1,ent.3130.foot2,sounds01,250
+10234,foot3,,0,0,1,ent.3130.foot3,sounds01,250
+10235,foot4,,0,0,1,ent.3130.foot4,sounds01,250
+10236,foot5,,0,0,1,ent.3130.foot5,sounds01,250
+10237,foot6,,0,1,1,ent.3130.foot6,sounds01,250
+10238,hit1,,0,1,3,ent.3130.hit1,sounds03,625
+10239,hit2,,0,0,3,ent.3130.hit2,sounds03,625
+10240,hit3,,0,0,3,ent.3130.hit3,sounds03,625
+10241,idle1,,0,0,4,ent.3130.idle1,sounds04,929
+10242,idle2,,0,0,4,ent.3130.idle2,sounds04,929
+10243,idle3,,0,0,4,ent.3130.idle3,sounds04,929
+10244,die,,0,1,3,ent.3131.die,sounds03,750
+10245,foot1,,0,1,1,ent.3131.foot1,sounds01,335
+10246,foot2,,0,1,1,ent.3131.foot2,sounds01,335
+10247,foot3,,0,0,1,ent.3131.foot3,sounds01,335
+10248,foot4,,0,0,1,ent.3131.foot4,sounds01,335
+10249,hit1,,0,1,3,ent.3131.hit1,sounds03,500
+10250,hit2,,0,1,3,ent.3131.hit2,sounds03,625
+10251,hit3,,0,0,3,ent.3131.hit3,sounds03,414
+10252,hit4,,0,0,3,ent.3131.hit4,sounds03,500
+10253,idle1,,0,0,4,ent.3131.idle1,sounds04,686
+10254,idle2,,0,0,4,ent.3131.idle2,sounds04,625
+10255,idle3,,0,0,4,ent.3131.idle3,sounds04,625
+10256,egg,,0,1,3,ent.3400.egg,sounds03,125
+10257,foot1,,0,0,1,ent.3400.foot1,sounds01,125
+10258,foot2,,0,0,1,ent.3400.foot2,sounds01,125
+10259,foot3,,0,0,1,ent.3400.foot3,sounds01,125
+10260,foot4,,0,0,1,ent.3400.foot4,sounds01,125
+10261,hit1,,0,1,3,ent.3400.hit1,sounds03,482
+10262,hit2,,0,0,3,ent.3400.hit2,sounds03,482
+10263,idle1,,0,0,4,ent.3400.idle1,sounds04,369
+10264,idle2,,0,0,4,ent.3400.idle2,sounds04,235
+10265,idle3,,0,0,4,ent.3400.idle3,sounds04,208
+10266,jump,,0,0,1,ent.3400.jump,sounds01,482
+10267,variation,,0,1,3,ent.3400.variation,sounds03,482
+10268,angry,,0,0,4,ent.3401.angry,sounds04,595
+10269,die,,0,1,3,ent.3401.die,sounds03,238
+10270,foot1,,0,0,1,ent.3401.foot1,sounds01,333
+10271,foot2,,0,0,1,ent.3401.foot2,sounds01,333
+10272,foot3,,0,0,1,ent.3401.foot3,sounds01,333
+10273,hit1,,0,1,3,ent.3401.hit1,sounds03,851
+10274,hit2,,0,0,3,ent.3401.hit2,sounds03,829
+10275,hit3,,0,0,3,ent.3401.hit3,sounds03,854
+10276,idle1,,0,0,4,ent.3401.idle1,sounds04,3679
+10277,idle2,,0,0,4,ent.3401.idle2,sounds04,1081
+10278,idle3,,0,0,4,ent.3401.idle3,sounds04,1148
+10279,idle4,,0,0,4,ent.3401.idle4,sounds04,1258
+10280,die,,0,1,3,ent.3402.die,sounds03,500
+10281,foot1,,0,0,1,ent.3402.foot1,sounds01,333
+10282,foot2,,0,0,1,ent.3402.foot2,sounds01,333
+10283,foot3,,0,0,1,ent.3402.foot3,sounds01,333
+10284,foot4,,0,0,1,ent.3402.foot4,sounds01,333
+10285,idle1,,0,0,4,ent.3402.idle1,sounds04,625
+10286,idle2,,0,0,4,ent.3402.idle2,sounds04,625
+10287,idle3,,0,0,4,ent.3402.idle3,sounds04,500
+10288,sleep,,0,0,4,ent.3402.sleep,sounds04,4015
+10289,foot1,,0,0,1,ent.3403.foot1,sounds01,422
+10290,foot2,,0,0,1,ent.3403.foot2,sounds01,483
+10291,foot3,,0,0,1,ent.3403.foot3,sounds01,466
+10292,foot4,,0,0,1,ent.3403.foot4,sounds01,466
+10293,idle1,,0,0,4,ent.3403.idle1,sounds04,1949
+10294,idle2,,0,0,4,ent.3403.idle2,sounds04,976
+10295,idle3,,0,0,4,ent.3403.idle3,sounds04,1617
+10296,shear,,0,1,2,ent.3403.shear,sounds02,375
+10297,die,,0,1,3,ent.3405.die,sounds03,1625
+10298,hit1,,0,1,3,ent.3405.hit1,sounds03,625
+10299,hit2,,0,0,3,ent.3405.hit2,sounds03,500
+10300,hit3,,0,0,3,ent.3405.hit3,sounds03,500
+10301,idle1,,0,0,4,ent.3405.idle1,sounds04,1500
+10302,idle2,,0,0,4,ent.3405.idle2,sounds04,875
+10303,idle3,,0,0,4,ent.3405.idle3,sounds04,1000
+10304,die,,0,1,3,ent.3406.die,sounds03,2250
+10305,hit1,,0,1,3,ent.3406.hit1,sounds03,2250
+10306,hit2,,0,1,3,ent.3406.hit2,sounds03,500
+10307,hit3,,0,1,3,ent.3406.hit3,sounds03,625
+10308,idle1,,0,0,4,ent.3406.idle1,sounds04,1000
+10309,idle2,,0,0,4,ent.3406.idle2,sounds04,1000
+10310,idle3,,0,0,4,ent.3406.idle3,sounds04,1000
+10311,die,,0,1,3,ent.3407.die,sounds03,750
+10312,foot1,,0,1,1,ent.3407.foot1,sounds01,184
+10313,foot2,,0,1,1,ent.3407.foot2,sounds01,186
+10314,foot3,,0,1,1,ent.3407.foot3,sounds01,177
+10315,foot4,,0,1,1,ent.3407.foot4,sounds01,200
+10316,foot5,,0,1,1,ent.3407.foot5,sounds01,230
+10317,hit1,,0,1,3,ent.3407.hit1,sounds03,500
+10318,hit2,,0,1,3,ent.3407.hit2,sounds03,428
+10319,hit3,,0,1,3,ent.3407.hit3,sounds03,428
+10320,howl,,0,1,6,ent.3407.howl,sounds06,2042
+10321,idle1,,0,1,4,ent.3407.idle1,sounds04,1000
+10322,idle2,,0,1,4,ent.3407.idle2,sounds04,1500
+10323,idle3,,0,1,4,ent.3407.idle3,sounds04,875
+10324,idle4,,0,1,4,ent.3407.idle4,sounds04,1410
+10325,die,,0,1,3,ent.3408.die,sounds03,750
+10326,foot1,,0,0,1,ent.3408.foot1,sounds01,184
+10327,foot2,,0,0,1,ent.3408.foot2,sounds01,186
+10328,foot3,,0,0,1,ent.3408.foot3,sounds01,177
+10329,foot4,,0,0,1,ent.3408.foot4,sounds01,200
+10330,foot5,,0,0,1,ent.3408.foot5,sounds01,230
+10331,hit1,,0,1,3,ent.3408.hit1,sounds03,500
+10332,hit2,,0,0,3,ent.3408.hit2,sounds03,428
+10333,hit3,,0,0,3,ent.3408.hit3,sounds03,428
+10334,idle1,,0,0,4,ent.3408.idle1,sounds04,1410
+10335,idle2,,0,0,4,ent.3408.idle2,sounds04,417
+10336,idle3,,0,0,4,ent.3408.idle3,sounds04,333
+10337,die,,0,1,3,ent.3409.die,sounds03,678
+10338,foot1,,0,0,1,ent.3409.foot1,sounds01,42
+10339,foot2,,0,0,1,ent.3409.foot2,sounds01,36
+10340,hit1,,0,1,3,ent.3409.hit1,sounds03,375
+10341,hit2,,0,1,3,ent.3409.hit2,sounds03,375
+10342,hit3,,0,1,3,ent.3409.hit3,sounds03,375
+10343,hit4,,0,1,3,ent.3409.hit4,sounds03,375
+10344,idle1,,0,0,4,ent.3409.idle1,sounds04,392
+10345,idle2,,0,0,4,ent.3409.idle2,sounds04,500
+10346,idle3,,0,0,4,ent.3409.idle3,sounds04,375
+10347,idle4,,0,0,4,ent.3409.idle4,sounds04,500
+10348,idle5,,0,0,4,ent.3409.idle5,sounds04,454
+10349,idle6,,0,0,4,ent.3409.idle6,sounds04,428
+10350,idle7,,0,0,4,ent.3409.idle7,sounds04,428
+10351,idle8,,0,0,4,ent.3409.idle8,sounds04,428
+10352,die,,0,1,3,ent.3410.die,sounds03,1375
+10353,hit1,,0,1,3,ent.3410.hit1,sounds03,375
+10354,hit2,,0,0,3,ent.3410.hit2,sounds03,500
+10355,hit3,,0,0,3,ent.3410.hit3,sounds03,500
+10356,idle1,,0,0,4,ent.3410.idle1,sounds04,1250
+10357,idle2,,0,0,4,ent.3410.idle2,sounds04,1250
+10358,idle3,,0,0,4,ent.3410.idle3,sounds04,1250
+10359,die,,0,1,3,ent.3415.die,sounds03,1250
+10360,foot1,,0,1,1,ent.3415.foot1,sounds01,500
+10361,hit1,,0,1,3,ent.3415.hit1,sounds03,500
+10362,hit2,,0,1,3,ent.3415.hit2,sounds03,500
+10363,idle1,,0,1,4,ent.3415.idle1,sounds04,875
+10364,idle2,,0,1,4,ent.3415.idle2,sounds04,1000
+10365,jump,,0,1,1,ent.3415.jump,sounds01,500
+10366,die,,0,1,3,ent.3416.die,sounds03,1000
+10367,eat,,0,1,2,ent.3416.eat,sounds02,1250
+10368,hit1,,0,1,3,ent.3416.hit1,sounds03,500
+10369,hunger,,0,1,2,ent.3416.hunger,sounds02,875
+10370,idle1,,0,0,4,ent.3416.idle1,sounds04,1125
+10371,idle2,,0,0,4,ent.3416.idle2,sounds04,1625
+10372,idle3,,0,0,4,ent.3416.idle3,sounds04,1500
+10373,die,,0,1,3,ent.3418.die,sounds03,625
+10374,hit1,,0,1,3,ent.3418.hit1,sounds03,625
+10375,idle1,,0,0,4,ent.3418.idle1,sounds04,2000
+10376,idle2,,0,0,4,ent.3418.idle2,sounds04,2000
+10377,idle3,,0,1,4,ent.3418.idle3,sounds04,2000
+10378,idle4,,0,1,4,ent.3418.idle4,sounds04,2000
+10379,blast,,0,1,6,ent.3420.blast,sounds06,5000
+10380,charge,,0,1,5,ent.3420.charge,sounds05,750
+10381,clear,,0,1,2,ent.3420.clear,sounds02,299
+10382,collide,,0,1,2,ent.3420.collide,sounds02,1250
+10383,hit1,,0,1,2,ent.3420.hit1,sounds02,750
+10384,kick1,,0,1,2,ent.3420.kick1,sounds02,375
+10385,lob_power_high,,0,1,2,ent.3420.lob_power_high,sounds02,625
+10386,lob_power_low,,0,1,2,ent.3420.lob_power_low,sounds02,375
+10387,shoot_power_high,,0,1,2,ent.3420.shoot_power_high,sounds02,1000
+10388,shoot_power_low,,0,1,2,ent.3420.shoot_power_low,sounds02,375
+10389,tackle,,0,1,2,ent.3420.tackle,sounds02,750
+10390,foot1,,0,0,1,ent.3421.foot1,sounds01,125
+10391,foot2,,0,0,1,ent.3421.foot2,sounds01,125
+10392,foot3,,0,0,1,ent.3421.foot3,sounds01,125
+10393,foot4,,0,0,1,ent.3421.foot4,sounds01,125
+10394,hit1,,0,0,3,ent.3421.hit1,sounds03,500
+10395,idle1,,0,1,4,ent.3421.idle1,sounds04,1125
+10396,discover,,0,1,2,ent.3423.discover,sounds02,208
+10397,foot1,,0,0,1,ent.3423.foot1,sounds01,125
+10398,foot2,,0,0,1,ent.3423.foot2,sounds01,125
+10399,foot3,,0,0,1,ent.3423.foot3,sounds01,125
+10400,foot4,,0,0,1,ent.3423.foot4,sounds01,125
+10401,hit1,,0,0,3,ent.3423.hit1,sounds03,625
+10402,idle1,,0,1,4,ent.3423.idle1,sounds04,500
+10403,idle2,,0,1,4,ent.3423.idle2,sounds04,625
+10404,crow,,0,1,2,ent.3424.crow,sounds02,3250
+10405,foot1,,0,0,1,ent.3424.foot1,sounds01,125
+10406,foot2,,0,0,1,ent.3424.foot2,sounds01,125
+10407,foot3,,0,0,1,ent.3424.foot3,sounds01,125
+10408,foot4,,0,0,1,ent.3424.foot4,sounds01,125
+10409,hit,,0,1,3,ent.3424.hit,sounds03,555
+10410,basketball_impact,,0,1,2,ent.3425.basketball_impact,sounds02,124
+10411,die,,0,1,3,ent.3430.die,sounds03,1375
+10412,hit1,,0,1,3,ent.3430.hit1,sounds03,750
+10413,hit2,,0,0,3,ent.3430.hit2,sounds03,625
+10414,hit3,,0,0,3,ent.3430.hit3,sounds03,625
+10415,idle1,,0,1,4,ent.3430.idle1,sounds04,500
+10416,idle2,,0,1,4,ent.3430.idle2,sounds04,625
+10417,idle3,,0,1,4,ent.3430.idle3,sounds04,1625
+10418,idle4,,0,1,4,ent.3430.idle4,sounds04,1000
+10419,idle5,,0,1,4,ent.3430.idle5,sounds04,1750
+10420,idle6,,0,1,4,ent.3430.idle6,sounds04,2000
+10421,die,,0,1,3,ent.3433.die,sounds03,500
+10422,fly,,0,1,2,ent.3433.fly,sounds02,750
+10423,hit1,,0,1,3,ent.3433.hit1,sounds03,375
+10424,hit2,,0,0,3,ent.3433.hit2,sounds03,250
+10425,hit3,,0,0,3,ent.3433.hit3,sounds03,375
+10426,idle1,,0,1,4,ent.3433.idle1,sounds04,1625
+10427,idle2,,0,1,4,ent.3433.idle2,sounds04,750
+10428,idle3,,0,1,4,ent.3433.idle3,sounds04,875
+10429,idle4,,0,1,4,ent.3433.idle4,sounds04,750
+10430,idle5,,0,1,4,ent.3433.idle5,sounds04,875
+10431,idle6,,0,1,4,ent.3433.idle6,sounds04,1750
+10432,die,,0,1,3,ent.3436.die,sounds03,4000
+10433,hit1,,0,1,3,ent.3436.hit1,sounds03,500
+10434,hit2,,0,0,3,ent.3436.hit2,sounds03,500
+10435,hit3,,0,0,3,ent.3436.hit3,sounds03,375
+10436,idle1,,0,1,4,ent.3436.idle1,sounds04,1750
+10437,idle2,,0,1,4,ent.3436.idle2,sounds04,2000
+10438,idle3,,0,1,4,ent.3436.idle3,sounds04,1125
+10439,idle4,,0,1,4,ent.3436.idle4,sounds04,1125
+10440,idle5,,0,1,4,ent.3436.idle5,sounds04,1125
+10441,idle6,,0,1,4,ent.3436.idle6,sounds04,2625
+10442,jump,,0,1,2,ent.3436.jump,sounds02,3000
+10443,die,,0,1,3,ent.3439.die,sounds03,375
+10444,hit1,,0,1,3,ent.3439.hit1,sounds03,375
+10445,hit2,,0,0,3,ent.3439.hit2,sounds03,375
+10446,hit3,,0,0,3,ent.3439.hit3,sounds03,375
+10447,idle1,,0,1,4,ent.3439.idle1,sounds04,500
+10448,idle2,,0,1,4,ent.3439.idle2,sounds04,500
+10449,idle3,,0,1,4,ent.3439.idle3,sounds04,500
+10450,idle4,,0,1,4,ent.3439.idle4,sounds04,500
+10451,idle5,,0,1,4,ent.3439.idle5,sounds04,500
+10452,idle6,,0,1,4,ent.3439.idle6,sounds04,500
+10453,die,,0,1,3,ent.3442.die,sounds03,1236
+10454,hit1,,0,1,3,ent.3442.hit1,sounds03,603
+10455,hit2,,0,1,3,ent.3442.hit2,sounds03,539
+10456,idle1,,0,1,4,ent.3442.idle1,sounds04,1035
+10457,die,,0,1,3,ent.3445.die,sounds03,318
+10458,hit,,0,1,3,ent.3445.hit,sounds03,230
+10459,idle,,0,1,4,ent.3445.idle,sounds04,481
+10460,jump,,0,0,2,ent.3445.jump,sounds02,888
+10461,angry,,0,1,5,ent.3501.angry,sounds05,7000
+10462,die,,0,1,3,ent.3501.die,sounds03,1375
+10463,hit1,,0,1,3,ent.3501.hit1,sounds03,375
+10464,hit2,,0,0,3,ent.3501.hit2,sounds03,375
+10465,hit3,,0,0,3,ent.3501.hit3,sounds03,500
+10466,idle1,,0,1,4,ent.3501.idle1,sounds04,1250
+10467,idle2,,0,1,4,ent.3501.idle2,sounds04,1250
+10468,idle3,,0,1,4,ent.3501.idle3,sounds04,901
+10469,idle4,,0,1,4,ent.3501.idle4,sounds04,1375
+10470,move1,,0,1,5,ent.3501.move1,sounds05,500
+10471,move2,,0,1,5,ent.3501.move2,sounds05,500
+10472,shout1,,0,1,2,ent.3501.shout1,sounds02,527
+10473,die,,0,1,6,ent.3502.die,sounds06,10000
+10474,fireball,,0,1,6,ent.3502.fireball,sounds06,2000
+10475,fly1,,0,1,2,ent.3502.fly1,sounds02,625
+10476,fly2,,0,0,2,ent.3502.fly2,sounds02,625
+10477,fly3,,0,0,2,ent.3502.fly3,sounds02,625
+10478,fly4,,0,0,2,ent.3502.fly4,sounds02,625
+10479,fly5,,0,0,2,ent.3502.fly5,sounds02,625
+10480,growl1,,0,1,2,ent.3502.growl1,sounds02,3125
+10481,growl2,,0,0,2,ent.3502.growl2,sounds02,3125
+10482,growl3,,0,0,2,ent.3502.growl3,sounds02,3125
+10483,hit1,,0,1,3,ent.3502.hit1,sounds03,2000
+10484,hit2,,0,1,3,ent.3502.hit2,sounds03,2000
+10485,hit3,,0,0,3,ent.3502.hit3,sounds03,2000
+10486,idle1,,0,1,4,ent.3502.idle1,sounds04,2000
+10487,idle2,,0,1,4,ent.3502.idle2,sounds04,2000
+10488,idle3,,0,1,4,ent.3502.idle3,sounds04,2000
+10489,idle4,,0,1,4,ent.3502.idle4,sounds04,2000
+10490,die,,0,1,3,ent.3505.die,sounds03,1625
+10491,escape,,0,1,4,ent.3505.escape,sounds04,1875
+10492,foot1,,0,0,1,ent.3505.foot1,sounds01,184
+10493,foot2,,0,0,1,ent.3505.foot2,sounds01,186
+10494,foot3,,0,0,1,ent.3505.foot3,sounds01,177
+10495,foot4,,0,0,1,ent.3505.foot4,sounds01,200
+10496,foot5,,0,0,1,ent.3505.foot5,sounds01,230
+10497,hit1,,0,1,3,ent.3505.hit1,sounds03,500
+10498,hit2,,0,0,3,ent.3505.hit2,sounds03,500
+10499,hit3,,0,0,3,ent.3505.hit3,sounds03,500
+10500,idle1,,0,1,4,ent.3505.idle1,sounds04,1250
+10501,idle2,,0,1,4,ent.3505.idle2,sounds04,1125
+10502,idle3,,0,1,4,ent.3505.idle3,sounds04,1625
+10503,idle4,,0,1,4,ent.3505.idle4,sounds04,625
+10504,idle5,,0,1,4,ent.3505.idle5,sounds04,500
+10505,die,,0,1,3,ent.3506.die,sounds03,1625
+10506,egg,,0,1,2,ent.3506.egg,sounds02,125
+10507,foot1,,0,0,1,ent.3506.foot1,sounds01,184
+10508,foot2,,0,0,1,ent.3506.foot2,sounds01,186
+10509,foot3,,0,0,1,ent.3506.foot3,sounds01,177
+10510,foot4,,0,0,1,ent.3506.foot4,sounds01,200
+10511,foot5,,0,0,1,ent.3506.foot5,sounds01,230
+10512,hit1,,0,1,3,ent.3506.hit1,sounds03,500
+10513,hit2,,0,0,3,ent.3506.hit2,sounds03,500
+10514,hit3,,0,0,3,ent.3506.hit3,sounds03,500
+10515,idle1,,0,1,4,ent.3506.idle1,sounds04,1250
+10516,idle2,,0,1,4,ent.3506.idle2,sounds04,1125
+10517,idle3,,0,1,4,ent.3506.idle3,sounds04,1625
+10518,idle4,,0,1,4,ent.3506.idle4,sounds04,625
+10519,idle5,,0,1,4,ent.3506.idle5,sounds04,500
+10520,sit,,0,1,2,ent.3506.sit,sounds02,1375
+10521,die,,0,1,3,ent.3507.die,sounds03,875
+10522,foot1,,0,0,1,ent.3507.foot1,sounds01,500
+10523,foot2,,0,0,1,ent.3507.foot2,sounds01,375
+10524,hit1,,0,1,3,ent.3507.hit1,sounds03,500
+10525,hit2,,0,0,3,ent.3507.hit2,sounds03,500
+10526,hit3,,0,0,3,ent.3507.hit3,sounds03,500
+10527,idle1,,0,1,4,ent.3507.idle1,sounds04,375
+10528,idle2,,0,1,4,ent.3507.idle2,sounds04,375
+10529,idle3,,0,1,4,ent.3507.idle3,sounds04,375
+10530,die,,0,1,3,ent.3508.die,sounds03,1250
+10531,foot1,,0,0,1,ent.3508.foot1,sounds01,500
+10532,hit1,,0,1,3,ent.3508.hit1,sounds03,500
+10533,hit2,,0,0,3,ent.3508.hit2,sounds03,500
+10534,idle1,,0,1,4,ent.3508.idle1,sounds04,875
+10535,idle2,,0,1,4,ent.3508.idle2,sounds04,1000
+10536,lavaball,,0,1,2,ent.3508.lavaball,sounds02,156
+10537,lavaball_hit,,0,1,2,ent.3508.lavaball_hit,sounds02,1485
+10538,attack,,0,1,2,ent.3510.attack,sounds02,2117
+10539,born,,0,1,2,ent.3510.born,sounds02,2455
+10540,die,,0,1,2,ent.3510.die,sounds02,6350
+10541,doubleattack,,0,0,2,ent.3510.doubleattack,sounds02,2439
+10542,bellow,,0,0,2,ent.3514.bellow,sounds02,2236
+10543,die,,0,1,3,ent.3514.die,sounds03,3089
+10544,foot,,0,1,1,ent.3514.foot,sounds01,615
+10545,stonewave,,0,0,2,ent.3514.stonewave,sounds02,2903
+10546,stonewaverdy,,0,1,5,ent.3514.stonewaverdy,sounds05,2000
+10547,countdown,,0,1,5,ent.3803.countdown,sounds05,11222
+10548,drop,,0,0,2,ent.3803.drop,sounds02,145
+10549,fly,,0,0,2,ent.3803.fly,sounds02,3617
+10550,landing,,0,0,2,ent.3803.landing,sounds02,3617
+10551,launching,,0,0,2,ent.3803.launching,sounds02,1859
+10552,open,,0,0,2,ent.3803.open,sounds02,1601
+10553,padding,,0,0,2,ent.3803.padding,sounds02,261
+10554,ready,,0,1,5,ent.3803.ready,sounds05,1549
+10555,warn,,0,1,5,ent.3803.warn,sounds05,2541
+10556,base,,0,1,6,ent.che.base,sounds06,1982
+10557,brake,,0,1,6,ent.che.brake,sounds06,794
+10558,inside,,0,1,6,ent.che.inside,sounds06,1906
+10559,portal,,0,0,2,ent.portal.portal,sounds02,1733
+10560,blast1,,0,1,6,ent.yanhua.blast1,sounds06,2125
+10561,blast2,,0,1,6,ent.yanhua.blast2,sounds06,2125
+10562,blast3,,0,1,6,ent.yanhua.blast3,sounds06,2125
+10563,blast4,,0,1,6,ent.yanhua.blast4,sounds06,2000
+10564,blast5,,0,1,6,ent.yanhua.blast5,sounds06,2125
+10565,launch1,,0,1,6,ent.yanhua.launch1,sounds06,1875
+10566,lava,,0,1,6,env.lava,sounds06,16855
+10567,lavapop,,0,1,6,env.lavapop,sounds06,322
+10568,portal,,0,1,6,env.portal,sounds06,16651
+10569,rain1,,0,1,6,env.rain1,sounds06,3500
+10570,rain2,,0,1,6,env.rain2,sounds06,4000
+10571,rain3,,0,1,6,env.rain3,sounds06,4000
+10572,rain4,,0,1,6,env.rain4,sounds06,6000
+10573,splash,,0,1,6,env.splash,sounds06,3875
+10574,swim1,,0,1,6,env.swim1,sounds06,750
+10575,swim2,,0,1,6,env.swim2,sounds06,750
+10576,swim3,,0,1,6,env.swim3,sounds06,750
+10577,swim4,,0,1,6,env.swim4,sounds06,750
+10578,transfer,,0,1,6,env.transfer,sounds06,500
+10579,underwater,,0,1,6,env.underwater,sounds06,13500
+10580,water,,0,1,6,env.water,sounds06,3898
+10581,full,,0,0,2,item.1047.full,sounds02,875
+10582,use1,,0,0,2,item.11005.use1,sounds02,250
+10583,charge1,,0,0,2,item.11015.charge1,sounds02,3000
+10584,charge4,,0,0,2,item.11015.charge4,sounds02,1000
+10585,clear_prop,,0,0,2,item.11072.clear_prop,sounds02,1616
+10586,activate,,0,0,2,item.11075.activate,sounds02,3500
+10587,charge1,,0,0,2,item.12004.charge1,sounds02,1125
+10588,charge2,,0,0,2,item.12004.charge2,sounds02,1125
+10589,charge3,,0,0,2,item.12004.charge3,sounds02,1125
+10590,charge4,,0,0,2,item.12004.charge4,sounds02,1000
+10591,charge1,,0,0,2,item.12005.charge1,sounds02,2000
+10592,charge2,,0,0,2,item.12005.charge2,sounds02,2000
+10593,charge3,,0,0,2,item.12005.charge3,sounds02,2000
+10594,charge4,,0,0,2,item.12005.charge4,sounds02,2000
+10595,fire,,0,0,2,item.12247.fire,sounds02,407
+10596,warn,,0,0,2,item.12275.warn,sounds02,875
+10597,charge2,,0,0,2,item.12288.charge2,sounds02,147
+10598,charge4,,0,0,2,item.12288.charge4,sounds02,563
+10599,charge,,0,0,2,item.12293.charge,sounds02,2000
+10600,freed,,0,0,2,item.12293.freed,sounds02,636
+10601,pickup,,0,0,2,item.12293.pickup,sounds02,388
+10602,fire,,0,0,2,item.12294.fire,sounds02,266
+10603,hit,,0,0,2,item.12296.hit,sounds02,231
+10604,hit,,0,0,2,item.12298.hit,sounds02,371
+10605,fire,,0,0,2,item.12587.fire,sounds02,1000
+10606,hit,,0,0,2,item.12587.hit,sounds02,1000
+10607,reload,,0,0,2,item.12587.reload,sounds02,1000
+10608,hit,,0,0,2,item.12591.hit,sounds02,1000
+10609,blast,,0,0,2,item.12822.blast,sounds02,2125
+10610,count,,0,0,2,item.12822.count,sounds02,875
+10611,fly,,0,0,2,item.12822.fly,sounds02,1852
+10612,launch,,0,0,2,item.12822.launch,sounds02,1875
+10613,empty,,0,0,2,item.15000.empty,sounds02,417
+10614,fire,,0,1,2,item.15000.fire,sounds02,580
+10615,hit,,0,1,2,item.15000.hit,sounds02,441
+10616,reload,,0,1,2,item.15000.reload,sounds02,1044
+10617,empty,,0,1,2,item.15002.empty,sounds02,394
+10618,fire,,0,1,2,item.15002.fire,sounds02,1091
+10619,hit,,0,1,2,item.15002.hit,sounds02,1215
+10620,reload,,0,1,2,item.15002.reload,sounds02,1044
+10621,empty,,0,1,2,item.15004.empty,sounds02,278
+10622,fire,,0,1,2,item.15004.fire,sounds02,1300
+10623,hit,,0,1,2,item.15004.hit,sounds02,464
+10624,load,,0,1,2,item.15004.load,sounds02,1000
+10625,reload,,0,1,2,item.15004.reload,sounds02,928
+10626,empty,,0,1,2,item.15005.empty,sounds02,1125
+10627,fire,,0,1,2,item.15005.fire,sounds02,250
+10628,hit,,0,1,2,item.15005.hit,sounds02,905
+10629,reload,,0,1,2,item.15005.reload,sounds02,1393
+10630,empty,,0,1,2,item.15006.empty,sounds02,325
+10631,fire,,0,1,2,item.15006.fire,sounds02,1114
+10632,hit,,0,1,2,item.15006.hit,sounds02,557
+10633,reload,,0,1,2,item.15006.reload,sounds02,1532
+10634,hit,,0,1,2,item.15007.hit,sounds02,256
+10635,axe_use,,0,1,2,misc.axe_use,sounds02,500
+10636,balloon,,0,1,2,misc.balloon,sounds02,299
+10637,bazooka,,0,1,2,misc.bazooka,sounds02,1625
+10638,bee,,0,1,6,misc.bee,sounds06,8560
+10639,bodyshot,,0,1,2,misc.bodyshot,sounds02,500
+10640,bow,,0,1,2,misc.bow,sounds02,527
+10641,bowhit1,,0,1,2,misc.bowhit1,sounds02,658
+10642,bowhit2,,0,0,2,misc.bowhit2,sounds02,658
+10643,bowhit3,,0,0,2,misc.bowhit3,sounds02,454
+10644,bowhit4,,0,0,2,misc.bowhit4,sounds02,828
+10645,break,,0,1,2,misc.break,sounds02,1000
+10646,burp,,0,1,2,misc.burp,sounds02,250
+10647,candle,,0,1,2,misc.candle,sounds02,451
+10648,chest_close,,0,1,2,misc.chest_close,sounds02,540
+10649,chest_open,,0,1,2,misc.chest_open,sounds02,1054
+10650,click,,0,1,2,misc.click,sounds02,277
+10651,dogwhistle,,0,1,2,misc.dogwhistle,sounds02,813
+10652,door_close,,0,1,2,misc.door_close,sounds02,444
+10653,door_open,,0,1,2,misc.door_open,sounds02,348
+10654,eat1,,0,1,2,misc.eat1,sounds02,215
+10655,eat2,,0,1,2,misc.eat2,sounds02,239
+10656,egg_hit,,0,1,2,misc.egg_hit,sounds02,375
+10657,emitter,,0,1,2,misc.emitter,sounds02,166
+10658,emitter_null,,0,1,2,misc.emitter_null,sounds02,220
+10659,equipment_break,,0,1,2,misc.equipment_break,sounds02,1000
+10660,explode1,,0,1,2,misc.explode1,sounds02,3375
+10661,explode2,,0,0,2,misc.explode2,sounds02,3375
+10662,explode3,,0,0,2,misc.explode3,sounds02,3375
+10663,explode4,,0,0,2,misc.explode4,sounds02,3375
+10664,explosive,,0,1,2,misc.explosive,sounds02,2250
+10665,fallbig,,0,1,2,misc.fallbig,sounds02,500
+10666,fallsmall,,0,1,2,misc.fallsmall,sounds02,500
+10667,fart,,0,1,2,misc.fart,sounds02,320
+10668,fire,,0,1,2,misc.fire,sounds02,3727
+10669,fireworks_1,,0,1,2,misc.fireworks_1,sounds02,1750
+10670,fizz,,0,0,2,misc.fizz,sounds02,1248
+10671,fuse,,0,0,2,misc.fuse,sounds02,2713
+10672,headshot,,0,0,2,misc.headshot,sounds02,500
+10673,hit1,,0,0,2,misc.hit1,sounds02,750
+10674,hit2,,0,0,2,misc.hit2,sounds02,625
+10675,hit3,,0,0,2,misc.hit3,sounds02,625
+10676,horn,,0,0,2,misc.horn,sounds02,2667
+10677,horseegg_pip,,0,0,2,misc.horseegg_pip,sounds02,7000
+10678,horseegg_plop,,0,0,2,misc.horseegg_plop,sounds02,125
+10679,ignite,,0,0,2,misc.ignite,sounds02,451
+10680,jetpack_1,,0,0,2,misc.jetpack_1,sounds02,750
+10681,jetpack_2,,0,0,2,misc.jetpack_2,sounds02,1852
+10682,jetpack_3,,0,0,2,misc.jetpack_3,sounds02,1000
+10683,jetpack_4,,0,0,2,misc.jetpack_4,sounds02,875
+10684,jetpack_5,,0,0,2,misc.jetpack_5,sounds02,1000
+10685,mechaslider,,0,0,2,misc.mechaslider,sounds02,1601
+10686,mechaslider_break,,0,0,2,misc.mechaslider_break,sounds02,1000
+10687,mechaslider_error,,0,0,2,misc.mechaslider_error,sounds02,1933
+10688,netting,,0,0,2,misc.netting,sounds02,156
+10689,pickaxe_use,,0,0,2,misc.pickaxe_use,sounds02,750
+10690,piston_in,,0,0,2,misc.piston_in,sounds02,250
+10691,piston_out,,0,0,2,misc.piston_out,sounds02,250
+10692,plug,,0,0,2,misc.plug,sounds02,96
+10693,pop,,0,0,2,misc.pop,sounds02,182
+10694,pulllution,,0,0,2,misc.pulllution,sounds02,4200
+10695,pulse_arrow,,0,0,2,misc.pulse_arrow,sounds02,424
+10696,rebirth,,0,0,2,misc.rebirth,sounds02,2250
+10697,robotarm,,0,0,2,misc.robotarm,sounds02,3213
+10698,sensorblock,,0,0,2,misc.sensorblock,sounds02,220
+10699,sleep,,0,0,2,misc.sleep,sounds02,5750
+10700,slingshot,,0,0,2,misc.slingshot,sounds02,500
+10701,slingshot_hit,,0,0,2,misc.slingshot_hit,sounds02,750
+10702,snowball_hit,,0,0,2,misc.snowball_hit,sounds02,203
+10703,snowball_hit_christmas,,0,0,2,misc.snowball_hit_christmas,sounds02,1219
+10704,spring_in,,0,0,2,misc.spring_in,sounds02,175
+10705,spring_out,,0,0,2,misc.spring_out,sounds02,783
+10706,starblock,,0,0,2,misc.starblock,sounds02,1750
+10707,switch1,,0,0,2,misc.switch1,sounds02,3213
+10708,throw,,0,0,2,misc.throw,sounds02,156
+10709,thrower,,0,0,2,misc.thrower,sounds02,156
+10710,throw_spear,,0,0,2,misc.throw_spear,sounds02,500
+10711,tnt_count,,0,0,2,misc.tnt_count,sounds02,330
+10712,trap_out,,0,0,2,misc.trap_out,sounds02,250
+10713,bgm1,,0,1,7,music.bgm1,sounds07,73375
+10714,bgm2,,0,1,7,music.bgm2,sounds07,57727
+10715,bgm3,,0,1,7,music.bgm3,sounds07,60582
+10716,bgm4,,0,1,7,music.bgm4,sounds07,52881
+10717,bgm5,,0,1,7,music.bgm5,sounds07,45125
+10718,bgm6,,0,1,7,music.bgm6,sounds07,52363
+10719,bgm7,,0,1,7,music.bgm7,sounds07,16000
+10720,bgm8,,0,1,7,music.bgm8,sounds07,38000
+10721,bgm_day_1,,0,1,7,music.bgm_day_1,sounds07,133333
+10722,bgm_day_2,,0,1,7,music.bgm_day_2,sounds07,151333
+10723,bgm_day_3,,0,1,7,music.bgm_day_3,sounds07,134007
+10724,bgm_day_4,,0,1,7,music.bgm_day_4,sounds07,136000
+10725,bgm_night_1,,0,1,7,music.bgm_night_1,sounds07,214000
+10726,bgm_night_2,,0,1,7,music.bgm_night_2,sounds07,144000
+10727,bgm_night_3,,0,1,7,music.bgm_night_3,sounds07,110400
+10728,bgm_night_4,,0,1,7,music.bgm_night_4,sounds07,100000
+10729,bgm_planet_day_1,,0,1,7,music.bgm_planet_day_1,sounds07,88000
+10730,bgm_planet_day_2,,0,1,7,music.bgm_planet_day_2,sounds07,98000
+10731,bgm_planet_day_3,,0,1,7,music.bgm_planet_day_3,sounds07,148000
+10732,bgm_planet_land,,0,1,7,music.bgm_planet_land,sounds07,32000
+10733,bgm_planet_night_1,,0,1,7,music.bgm_planet_night_1,sounds07,264000
+10734,bgm_planet_night_2,,0,1,7,music.bgm_planet_night_2,sounds07,100000
+10735,bgm_planet_night_3,,0,1,7,music.bgm_planet_night_3,sounds07,132000
+10736,bgm_earthcore_night_1,,0,1,7,music.bgm_earthcore_night_1,sounds07,82750
+10737,boss_earthcore_1,,0,1,7,music.boss_earthcore_1,sounds07,56570
+10738,boss_golem_1,,0,1,7,music.boss_golem_1,sounds07,61934
+10739,theme1,,0,1,7,music.theme1,sounds07,50823
+10740,fx1,,0,1,7,music.fx.fx1,sounds07,4000
+10741,fx2,,0,0,7,music.fx.fx2,sounds07,2000
+10742,fx3,,0,1,7,music.fx.fx3,sounds07,8500
+10743,fx4,,0,1,7,music.fx.fx4,sounds07,8500
+10744,bass1,,0,1,7,music.loop.bass1,sounds07,8000
+10745,bass2,,0,1,7,music.loop.bass2,sounds07,4000
+10746,bass3,,0,1,7,music.loop.bass3,sounds07,4000
+10747,bass4,,0,1,7,music.loop.bass4,sounds07,4000
+10748,bass_a1,,0,0,7,music.loop.bass_a1,sounds07,500
+10749,bass_a2,,0,0,7,music.loop.bass_a2,sounds07,500
+10750,bass_a3,,0,0,7,music.loop.bass_a3,sounds07,500
+10751,bass_a4,,0,0,7,music.loop.bass_a4,sounds07,500
+10752,drum1,,0,1,7,music.loop.drum1,sounds07,8000
+10753,drum2,,0,1,7,music.loop.drum2,sounds07,16000
+10754,drum3,,0,1,7,music.loop.drum3,sounds07,4000
+10755,drum4,,0,1,7,music.loop.drum4,sounds07,4000
+10756,drum_a1,,0,0,7,music.loop.drum_a1,sounds07,500
+10757,drum_a2,,0,0,7,music.loop.drum_a2,sounds07,500
+10758,drum_a3,,0,0,7,music.loop.drum_a3,sounds07,500
+10759,drum_a4,,0,0,7,music.loop.drum_a4,sounds07,500
+10760,pad1,,0,1,7,music.loop.pad1,sounds07,16000
+10761,pad2,,0,1,7,music.loop.pad2,sounds07,8000
+10762,pad3,,0,1,7,music.loop.pad3,sounds07,8000
+10763,pad4,,0,1,7,music.loop.pad4,sounds07,4000
+10764,pad_a1,,0,0,7,music.loop.pad_a1,sounds07,500
+10765,pad_a2,,0,0,7,music.loop.pad_a2,sounds07,500
+10766,pad_a3,,0,0,7,music.loop.pad_a3,sounds07,500
+10767,pad_a4,,0,0,7,music.loop.pad_a4,sounds07,500
+10768,bass1,,0,1,7,music.note.bass1,sounds07,500
+10769,bass2,,0,1,7,music.note.bass2,sounds07,500
+10770,bass3,,0,1,7,music.note.bass3,sounds07,1500
+10771,bass4,,0,1,7,music.note.bass4,sounds07,2000
+10772,bass5,,0,1,7,music.note.bass5,sounds07,2000
+10773,bass6,,0,1,7,music.note.bass6,sounds07,3000
+10774,bass7,,0,1,7,music.note.bass7,sounds07,2500
+10775,bass8,,0,1,7,music.note.bass8,sounds07,2500
+10776,drum1,,0,1,7,music.note.drum1,sounds07,1000
+10777,drum2,,0,1,7,music.note.drum2,sounds07,1000
+10778,drum3,,0,1,7,music.note.drum3,sounds07,1000
+10779,drum4,,0,1,7,music.note.drum4,sounds07,1000
+10780,drum5,,0,1,7,music.note.drum5,sounds07,1000
+10781,drum6,,0,1,7,music.note.drum6,sounds07,6000
+10782,drum7,,0,1,7,music.note.drum7,sounds07,6000
+10783,drum8,,0,1,7,music.note.drum8,sounds07,1000
+10784,lead1,,0,1,7,music.note.lead1,sounds07,875
+10785,lead2,,0,1,7,music.note.lead2,sounds07,875
+10786,lead3,,0,1,7,music.note.lead3,sounds07,875
+10787,lead4,,0,1,7,music.note.lead4,sounds07,875
+10788,lead5,,0,1,7,music.note.lead5,sounds07,875
+10789,lead6,,0,1,7,music.note.lead6,sounds07,875
+10790,lead7,,0,1,7,music.note.lead7,sounds07,875
+10791,lead8,,0,1,7,music.note.lead8,sounds07,875
+10792,tone,,0,1,7,music.tone.tone,sounds07,875
+10793,chest,,0,0,2,npc.chest,sounds02,1054
+10794,crafted,,0,1,2,npc.crafted,sounds02,809
+10795,crafting,,0,1,2,npc.crafting,sounds02,1317
+10796,deal_defeated,,0,1,2,npc.deal_defeated,sounds02,495
+10797,deal_succeed,,0,1,2,npc.deal_succeed,sounds02,431
+10798,eat,,0,1,2,npc.eat,sounds02,215
+10799,hungry,,0,1,2,npc.hungry,sounds02,875
+10800,need,,0,1,2,npc.need,sounds02,440
+10801,pick,,0,1,2,npc.pick,sounds02,182
+10802,rise,,0,1,2,npc.rise,sounds02,3000
+10803,sleep,,0,1,2,npc.sleep,sounds02,4000
+10804,task_complete,,0,1,2,npc.task_complete,sounds02,808
+10805,task_pickup,,0,1,2,npc.task_pickup,sounds02,397
+10806,brake,,0,1,2,phy.brake,sounds02,784
+10807,collision,,0,1,2,phy.collision,sounds02,553
+10808,createmachine,,0,1,2,phy.createmachine,sounds02,878
+10809,engineignition,,0,1,2,phy.engineignition,sounds02,2000
+10810,enginework,,0,1,2,phy.enginework,sounds02,2577
+10811,partsexplode,,0,1,2,phy.partsexplode,sounds02,720
+10812,wheeltravel,,0,0,2,phy.wheeltravel,sounds02,6996
+10813,count1,,0,1,9,pvp.count1,sounds09,1114
+10814,count2,,0,1,9,pvp.count2,sounds09,1230
+10815,count3,,0,1,9,pvp.count3,sounds09,1137
+10816,defeat,,0,1,9,pvp.defeat,sounds09,4270
+10817,end,,0,1,9,pvp.end,sounds09,5375
+10818,kill,,0,1,9,pvp.kill,sounds09,331
+10819,kill_1,,0,1,9,pvp.kill_1,sounds09,1500
+10820,kill_2,,0,1,9,pvp.kill_2,sounds09,1500
+10821,kill_3,,0,1,9,pvp.kill_3,sounds09,1750
+10822,kill_4,,0,1,9,pvp.kill_4,sounds09,1875
+10823,kill_5,,0,1,9,pvp.kill_5,sounds09,2000
+10824,kill_6,,0,1,9,pvp.kill_6,sounds09,1875
+10825,snowball1,,0,1,9,pvp.snowball1,sounds09,203
+10826,start,,0,1,9,pvp.start,sounds09,1346
+10827,whistle,,0,1,9,pvp.whistle,sounds09,813
+10828,win,,0,1,9,pvp.win,sounds09,2142
+10829,skin1,,0,0,1,skin.skin1,sounds01,1750
+10830,skin10,,0,0,1,skin.skin10,sounds01,8780
+10831,skin11,,0,0,1,skin.skin11,sounds01,5250
+10832,skin12,,0,0,1,skin.skin12,sounds01,6500
+10833,skin13,,0,0,1,skin.skin13,sounds01,6500
+10834,skin14,,0,0,1,skin.skin14,sounds01,4750
+10835,skin15,,0,0,1,skin.skin15,sounds01,7500
+10836,skin16,,0,0,1,skin.skin16,sounds01,4750
+10837,skin17,,0,0,1,skin.skin17,sounds01,6000
+10838,skin18,,0,0,1,skin.skin18,sounds01,6375
+10839,skin19,,0,0,1,skin.skin19,sounds01,5625
+10840,skin2,,0,0,1,skin.skin2,sounds01,2125
+10841,skin20,,0,0,1,skin.skin20,sounds01,4500
+10842,skin21,,0,0,1,skin.skin21,sounds01,6000
+10843,skin22,,0,0,1,skin.skin22,sounds01,6750
+10844,skin23,,0,0,1,skin.skin23,sounds01,9600
+10845,skin24,,0,0,1,skin.skin24,sounds01,8000
+10846,skin25,,0,0,1,skin.skin25,sounds01,6857
+10847,skin26,,0,0,1,skin.skin26,sounds01,4000
+10848,skin27,,0,0,1,skin.skin27,sounds01,6000
+10849,skin28,,0,0,1,skin.skin28,sounds01,7204
+10850,skin29,,0,0,1,skin.skin29,sounds01,6625
+10851,skin3,,0,0,1,skin.skin3,sounds01,1375
+10852,skin30,,0,0,1,skin.skin30,sounds01,7916
+10853,skin31,,0,0,1,skin.skin31,sounds01,7988
+10854,skin32,,0,0,1,skin.skin32,sounds01,7671
+10855,skin33,,0,0,1,skin.skin33,sounds01,10000
+10856,skin34,,0,0,1,skin.skin34,sounds01,6000
+10857,skin35,,0,0,1,skin.skin35,sounds01,6567
+10858,skin36,,0,0,1,skin.skin36,sounds01,8880
+10859,skin37,,0,0,1,skin.skin37,sounds01,7000
+10860,skin38,,0,0,1,skin.skin38,sounds01,7250
+10861,skin39,,0,0,1,skin.skin39,sounds01,6000
+10862,skin4,,0,0,1,skin.skin4,sounds01,1625
+10863,skin40,,0,0,1,skin.skin40,sounds01,10500
+10864,skin41,,0,0,1,skin.skin41,sounds01,4750
+10865,skin42,,0,0,1,skin.skin42,sounds01,7521
+10866,skin43,,0,0,1,skin.skin43,sounds01,6403
+10867,skin44,,0,0,1,skin.skin44,sounds01,9904
+10868,skin45,,0,0,1,skin.skin45,sounds01,6923
+10869,skin46,,0,0,1,skin.skin46,sounds01,5357
+10870,skin47,,0,0,1,skin.skin47,sounds01,7500
+10871,skin5,,0,0,1,skin.skin5,sounds01,4250
+10872,skin6,,0,0,1,skin.skin6,sounds01,3500
+10873,skin7,,0,0,1,skin.skin7,sounds01,3625
+10874,skin8,,0,0,1,skin.skin8,sounds01,2500
+10875,skin9,,0,0,1,skin.skin9,sounds01,6500
+10876,horse1,,0,0,6,storehorse.horse1,sounds06,3500
+10877,horse2,,0,0,6,storehorse.horse2,sounds06,2625
+10878,horse3,,0,0,6,storehorse.horse3,sounds06,3000
+10879,horse4,,0,0,6,storehorse.horse4,sounds06,4000
+10880,horse5,,0,0,6,storehorse.horse5,sounds06,5135
+10881,horse6,,0,0,6,storehorse.horse6,sounds06,3250
+10882,button_click,,0,0,1,ui.button.button_click,sounds01,261
+10883,camera,,0,0,1,ui.button.camera,sounds01,365
+10884,jump,,0,0,1,ui.button.jump,sounds01,250
+10885,guide_boy_1,,0,0,8,ui.guide.guide_boy.guide_boy_1,sounds08,2375
+10886,guide_boy_10,,0,0,8,ui.guide.guide_boy.guide_boy_10,sounds08,1000
+10887,guide_boy_11,,0,0,8,ui.guide.guide_boy.guide_boy_11,sounds08,1750
+10888,guide_boy_12,,0,0,8,ui.guide.guide_boy.guide_boy_12,sounds08,2500
+10889,guide_boy_13,,0,0,8,ui.guide.guide_boy.guide_boy_13,sounds08,1500
+10890,guide_boy_14,,0,0,8,ui.guide.guide_boy.guide_boy_14,sounds08,1750
+10891,guide_boy_15,,0,0,8,ui.guide.guide_boy.guide_boy_15,sounds08,2250
+10892,guide_boy_16,,0,0,8,ui.guide.guide_boy.guide_boy_16,sounds08,3250
+10893,guide_boy_17,,0,0,8,ui.guide.guide_boy.guide_boy_17,sounds08,1875
+10894,guide_boy_18,,0,0,8,ui.guide.guide_boy.guide_boy_18,sounds08,2875
+10895,guide_boy_19,,0,0,8,ui.guide.guide_boy.guide_boy_19,sounds08,1375
+10896,guide_boy_2,,0,0,8,ui.guide.guide_boy.guide_boy_2,sounds08,3000
+10897,guide_boy_20,,0,0,8,ui.guide.guide_boy.guide_boy_20,sounds08,1375
+10898,guide_boy_21,,0,0,8,ui.guide.guide_boy.guide_boy_21,sounds08,1500
+10899,guide_boy_22,,0,0,8,ui.guide.guide_boy.guide_boy_22,sounds08,1875
+10900,guide_boy_23,,0,0,8,ui.guide.guide_boy.guide_boy_23,sounds08,4125
+10901,guide_boy_24,,0,0,8,ui.guide.guide_boy.guide_boy_24,sounds08,2375
+10902,guide_boy_25,,0,0,8,ui.guide.guide_boy.guide_boy_25,sounds08,2125
+10903,guide_boy_26,,0,0,8,ui.guide.guide_boy.guide_boy_26,sounds08,2250
+10904,guide_boy_27,,0,0,8,ui.guide.guide_boy.guide_boy_27,sounds08,3500
+10905,guide_boy_28,,0,0,8,ui.guide.guide_boy.guide_boy_28,sounds08,3750
+10906,guide_boy_29,,0,0,8,ui.guide.guide_boy.guide_boy_29,sounds08,1625
+10907,guide_boy_3,,0,0,8,ui.guide.guide_boy.guide_boy_3,sounds08,3000
+10908,guide_boy_4,,0,0,8,ui.guide.guide_boy.guide_boy_4,sounds08,3500
+10909,guide_boy_5,,0,0,8,ui.guide.guide_boy.guide_boy_5,sounds08,3000
+10910,guide_boy_6,,0,0,8,ui.guide.guide_boy.guide_boy_6,sounds08,2000
+10911,guide_boy_7,,0,0,8,ui.guide.guide_boy.guide_boy_7,sounds08,2250
+10912,guide_boy_8,,0,0,8,ui.guide.guide_boy.guide_boy_8,sounds08,2125
+10913,guide_boy_9,,0,0,8,ui.guide.guide_boy.guide_boy_9,sounds08,2000
+10914,guide_girl_1,,0,0,8,ui.guide.guide_girl.guide_girl_1,sounds08,2375
+10915,guide_girl_10,,0,0,8,ui.guide.guide_girl.guide_girl_10,sounds08,1000
+10916,guide_girl_11,,0,0,8,ui.guide.guide_girl.guide_girl_11,sounds08,1750
+10917,guide_girl_12,,0,0,8,ui.guide.guide_girl.guide_girl_12,sounds08,2500
+10918,guide_girl_13,,0,0,8,ui.guide.guide_girl.guide_girl_13,sounds08,1500
+10919,guide_girl_14,,0,0,8,ui.guide.guide_girl.guide_girl_14,sounds08,1750
+10920,guide_girl_15,,0,0,8,ui.guide.guide_girl.guide_girl_15,sounds08,2375
+10921,guide_girl_16,,0,0,8,ui.guide.guide_girl.guide_girl_16,sounds08,3250
+10922,guide_girl_17,,0,0,8,ui.guide.guide_girl.guide_girl_17,sounds08,1875
+10923,guide_girl_18,,0,0,8,ui.guide.guide_girl.guide_girl_18,sounds08,2875
+10924,guide_girl_19,,0,0,8,ui.guide.guide_girl.guide_girl_19,sounds08,1375
+10925,guide_girl_2,,0,0,8,ui.guide.guide_girl.guide_girl_2,sounds08,3000
+10926,guide_girl_20,,0,0,8,ui.guide.guide_girl.guide_girl_20,sounds08,1375
+10927,guide_girl_21,,0,0,8,ui.guide.guide_girl.guide_girl_21,sounds08,1500
+10928,guide_girl_22,,0,0,8,ui.guide.guide_girl.guide_girl_22,sounds08,1875
+10929,guide_girl_23,,0,0,8,ui.guide.guide_girl.guide_girl_23,sounds08,4125
+10930,guide_girl_24,,0,0,8,ui.guide.guide_girl.guide_girl_24,sounds08,2125
+10931,guide_girl_25,,0,0,8,ui.guide.guide_girl.guide_girl_25,sounds08,2750
+10932,guide_girl_26,,0,0,8,ui.guide.guide_girl.guide_girl_26,sounds08,2750
+10933,guide_girl_27,,0,0,8,ui.guide.guide_girl.guide_girl_27,sounds08,3625
+10934,guide_girl_28,,0,0,8,ui.guide.guide_girl.guide_girl_28,sounds08,3875
+10935,guide_girl_29,,0,0,8,ui.guide.guide_girl.guide_girl_29,sounds08,1750
+10936,guide_girl_3,,0,0,8,ui.guide.guide_girl.guide_girl_3,sounds08,3000
+10937,guide_girl_4,,0,0,8,ui.guide.guide_girl.guide_girl_4,sounds08,3500
+10938,guide_girl_5,,0,0,8,ui.guide.guide_girl.guide_girl_5,sounds08,3000
+10939,guide_girl_6,,0,0,8,ui.guide.guide_girl.guide_girl_6,sounds08,2000
+10940,guide_girl_7,,0,0,8,ui.guide.guide_girl.guide_girl_7,sounds08,2250
+10941,guide_girl_8,,0,0,8,ui.guide.guide_girl.guide_girl_8,sounds08,2125
+10942,guide_girl_9,,0,0,8,ui.guide.guide_girl.guide_girl_9,sounds08,2000
+10943,click_F3,,0,0,8,ui.guide.PC_SFX.click_F3,sounds08,239
+10944,page_turning,,0,0,8,ui.guide.PC_SFX.page_turning,sounds08,539
+10945,achievement_complete,,0,1,8,ui.info.achievement_complete,sounds08,1880
+10946,achievement_reach,,0,1,8,ui.info.achievement_reach,sounds08,1253
+10947,book_seriesunlock,,0,1,8,ui.info.book_seriesunlock,sounds08,1486
+10948,book_unlock,,0,1,8,ui.info.book_unlock,sounds08,2159
+10949,crafting_error,,0,1,8,ui.info.crafting_error,sounds08,1277
+10950,crafting_success,,0,1,8,ui.info.crafting_success,sounds08,232
+10951,death,,0,1,8,ui.info.death,sounds08,3000
+10952,experience_star,,0,1,8,ui.info.experience_star,sounds08,827
+10953,guide_complete,,0,1,8,ui.info.guide_complete,sounds08,5375
+10954,guide_get,,0,1,8,ui.info.guide_get,sounds08,2000
+10955,guide_info,,0,1,8,ui.info.guide_info,sounds08,182
+10956,message_get,,0,1,8,ui.info.message_get,sounds08,208
+10957,shop_unlock,,0,1,8,ui.info.shop_unlock,sounds08,3088
+10958,tame_failed,,0,1,8,ui.info.tame_failed,sounds08,625
+10959,tame_success,,0,1,8,ui.info.tame_success,sounds08,3000
+10960,voice_on,,0,1,8,ui.info.voice_on,sounds08,294
+10961,plant_businessman_open,,0,1,8,ui.plant.plant_businessman_open,sounds08,2487
+10962,plant_fruit_produce,,0,1,8,ui.plant.plant_fruit_produce,sounds08,2345
+10963,plant_fruit_ripe,,0,1,8,ui.plant.plant_fruit_ripe,sounds08,859
+10964,plant_guide_1,,0,1,8,ui.plant.plant_guide_1,sounds08,1253
+10965,plant_item_open,,0,1,8,ui.plant.plant_item_open,sounds08,1439
+10966,plant_item_rare,,0,1,8,ui.plant.plant_item_rare,sounds08,3500
+10967,plant_levelup_1,,0,1,8,ui.plant.plant_levelup_1,sounds08,1695
+10968,plant_love_full,,0,1,8,ui.plant.plant_love_full,sounds08,12000
+10969,plant_love_get,,0,1,8,ui.plant.plant_love_get,sounds08,2487
+10970,plant_say,,0,1,8,ui.plant.plant_say,sounds08,1253
+10971,plant_water_click,,0,1,8,ui.plant.plant_water_click,sounds08,325
+10972,plant_water_get,,0,1,8,ui.plant.plant_water_get,sounds08,1671
+10973,hit,,0,1,3,ent.3870.hit,sounds03,310
+10974,hit,,0,1,3,ent.3870.hit,sounds03,0
+10975,hit,,0,1,3,ent.3878.attack,sounds03,540
+10976,die,,0,1,3,ent.3870.die,sounds03,695
+10977,die,,0,1,3,ent.3872.die,sounds03,1235
+10978,die,,0,1,3,ent.3873.die,sounds03,878
+10979,die,,0,1,3,ent.3878.die,sounds03,3973
+10980,demage,,0,1,3,ent.4503.attack1,sounds03,20036
+10981,dun,,0,1,3,ent.4502.attack1,sounds03,24927
+10982,buff_cold,,0,1,5,buff.buff_cold,sounds05,4162
+10983,buff_diarrhea,,0,1,5,buff.buff_diarrhea,sounds05,10315
+10984,crafting,,0,1,9,item.11613.crafting,sounds09,1223
+10985,buff_balala_xiaolan,,0,0,8,buff.buff_balala_xiaolan,sounds08,3924
+10986,buff_balala_meiqi,,0,0,8,buff.buff_balala_meiqi,sounds08,3924
+10987,buff_balala_meixue,,0,0,8,buff.buff_balala_meixue,sounds08,3924
+10988,buff_balala_youle,,0,0,8,buff.buff_balala_youle,sounds08,3924
+10989,buff_balala_caili,,0,0,8,buff.buff_balala_caili,sounds08,3916
+10990,buff_balala_qiaoling,,0,0,8,buff.buff_balala_qiaoling,sounds08,3916
+10991,buff_balala_xiaomin,,0,0,8,buff.buff_balala_xiaomin,sounds08,3916
+10992,buff_seachange,,0,0,5,item.11641.watertransform1,sounds09,2140
+10993,ChurchBell,钟声,0,1,9,misc.ChurchBell,sounds09,4442
+10994,ClockTick,时钟滴答声,0,1,9,misc.ClockTick,sounds09,3657
+10995,PhoneRing1,急促电话,0,1,9,misc.PhoneRing1,sounds09,4481
+10996,PhoneRing2,急促电话2,0,1,9,misc.PhoneRing2,sounds09,3750
+10997,BingBong,门铃声,0,1,9,misc.BingBong,sounds09,2507
+10998,MatelicDoorOpen,清脆开门声,0,1,9,misc.MatelicDoorOpen,sounds09,1584
+10999,WoodenDoorOpen,木门嘎吱声,0,1,9,misc.WoodenDoorOpen,sounds09,3918
+11000,Meow1,猫叫1,0,1,9,misc.Meow1,sounds09,1790
+11001,Meow2,猫叫2,0,1,9,misc.Meow2,sounds09,1544
+11002,BirdFlapping,鸟扇翅膀,0,1,9,misc.BirdFlapping,sounds09,3625
+11003,RoosterCrow,鸡打鸣声,0,1,9,misc.RoosterCrow,sounds09,2635
+11004,CrowSound,乌鸦叫,0,1,9,misc.CrowSound,sounds09,2557
+11005,GirlGiggles,女孩笑声,0,1,9,misc.GirlGiggles,sounds09,1273
+11006,HorrorLaugh,恐怖笑声,0,1,9,misc.HorrorLaugh,sounds09,3537
+11007,HorrorGirlLaugh1,恐怖女声1,0,1,9,misc.HorrorGirlLaugh1,sounds09,3420
+11008,HorrorGirlLaugh2,恐怖女声2,0,1,9,misc.HorrorGirlLaugh2,sounds09,3986
+11009,HorrorGirlLaugh3,恐怖女声3,0,1,9,misc.HorrorGirlLaugh3,sounds09,3773
+11010,HorrorGirlLaugh4,恐怖女声4,0,1,9,misc.HorrorGirlLaugh4,sounds09,4281
+11011,WaterDrop1,水滴慢放,0,1,9,misc.WaterDrop1,sounds09,3959
+11012,WaterDrop2,连续水滴,0,1,9,misc.WaterDrop2,sounds09,6357
+11013,ToiletFluttering,冲马桶声,0,1,9,misc.ToiletFluttering,sounds09,4004
+11014,MiceSqueak,老鼠吱吱声,0,1,9,misc.MiceSqueak,sounds09,1201
+11015,CameraGlitch,快门声,0,1,9,misc.CameraGlitch,sounds09,2526
+11016,Alert,警报声,0,1,9,misc.Alert,sounds09,3979
+11017,WolfHowling,狼嚎,0,1,9,misc.WolfHowling,sounds09,4761
+11018,CarHonk,车鸣笛,0,1,9,misc.CarHonk,sounds09,871
+11019,VechicleDrivingOff,汽车出发,0,1,9,misc.VechicleDrivingOff,sounds09,3474
+11020,SchoolBell,上课铃声,0,1,9,misc.SchoolBell,sounds09,3680
+11021,Whispers,窃窃私语声,0,1,9,misc.Whispers,sounds09,4163
+11022,StoneMoving,岩石移动声,0,1,9,misc.StoneMoving,sounds09,3506
+11023,HighHeels,高跟鞋脚步,0,1,9,misc.HighHeels,sounds09,1365
+11024,idle,三角龙-待机,0,1,4,ent.3170.idle,sounds04,1998
+11025,foot1,三角龙-移动1,0,1,1,ent.3170.foot1,sounds01,1111
+11026,foot2,三角龙-移动3,0,1,1,ent.3170.foot2,sounds01,1004
+11027,foot3,三角龙-移动3,0,1,1,ent.3170.foot3,sounds01,1273
+11028,attack,三角龙-攻击,0,1,2,ent.3170.attack,sounds02,1405
+11029,hit,三角龙-受击,0,1,3,ent.3170.hit,sounds03,858
+11030,die,三角龙-死亡,0,1,3,ent.3170.die,sounds03,977
+11031,idle,腕龙-待机,0,1,4,ent.3174.idle,sounds04,2246
+11032,foot1,腕龙-移动1,0,1,1,ent.3174.foot1,sounds01,2036
+11033,foot2,腕龙-移动2,0,1,1,ent.3174.foot2,sounds01,2441
+11034,foot3,腕龙-移动3,0,1,1,ent.3174.foot3,sounds01,1831
+11035,attack,腕龙-攻击,0,1,2,ent.3174.attack,sounds02,1216
+11036,hit,腕龙-受击,0,1,3,ent.3174.hit,sounds03,983
+11037,die,腕龙-死亡,0,1,3,ent.3174.die,sounds03,1555
+11038,idle,翼龙-待机,0,1,4,ent.3178.idle,sounds04,757
+11039,foot1,翼龙-移动1,0,1,1,ent.3178.foot1,sounds01,579
+11040,foot2,翼龙-移动2,0,1,1,ent.3178.foot2,sounds01,355
+11041,attack,翼龙-攻击,0,1,2,ent.3178.attack,sounds02,1061
+11042,hit,翼龙-受击,0,1,3,ent.3178.hit,sounds03,786
+11043,die,翼龙-死亡,0,1,3,ent.3178.die,sounds03,751
+11044,idle,副栉龙-待机,0,1,4,ent.3182.idle,sounds04,645
+11045,foot1,副栉龙-移动1,0,1,1,ent.3182.foot1,sounds01,525
+11046,foot2,副栉龙-移动2,0,1,1,ent.3182.foot2,sounds01,519
+11047,attack,副栉龙-攻击,0,1,2,ent.3182.attack,sounds02,1017
+11048,hit,副栉龙-受击,0,1,3,ent.3182.hit,sounds03,606
+11049,die,副栉龙-死亡,0,1,3,ent.3182.die,sounds03,1226
+11050,idle,迅猛龙-待机,0,1,4,ent.3185.idle,sounds04,661
+11051,foot1,迅猛龙-移动1,0,1,1,ent.3185.foot1,sounds01,383
+11052,foot2,迅猛龙-移动2,0,1,1,ent.3185.foot2,sounds01,471
+11053,foot3,迅猛龙-移动3,0,1,1,ent.3185.foot3,sounds01,380
+11054,attack,迅猛龙-攻击,0,1,2,ent.3185.attack,sounds02,591
+11055,hit,迅猛龙-受击,0,1,3,ent.3185.hit,sounds03,792
+11056,die,迅猛龙-死亡,0,1,3,ent.3185.die,sounds03,1319
+11057,idle,双冠龙-待机,0,1,4,ent.3189.idle,sounds04,1329
+11058,foot1,双冠龙-移动1,0,1,1,ent.3189.foot1,sounds01,534
+11059,foot2,双冠龙-移动2,0,1,1,ent.3189.foot2,sounds01,533
+11060,foot3,双冠龙-移动3,0,1,1,ent.3189.foot3,sounds01,637
+11061,attack,双冠龙-攻击,0,1,2,ent.3189.attack,sounds02,398
+11062,hit,双冠龙-受击,0,1,3,ent.3189.hit,sounds03,680
+11063,die,双冠龙-死亡,0,1,3,ent.3189.die,sounds03,1484
+11064,idle,剑龙-待机,0,1,4,ent.3191.idle,sounds04,2625
+11065,foot1,剑龙-移动1,0,1,1,ent.3191.foot1,sounds01,1865
+11066,foot2,剑龙-移动2,0,1,1,ent.3191.foot2,sounds01,1778
+11067,foot3,剑龙-移动3,0,1,1,ent.3191.foot3,sounds01,1837
+11068,attack,剑龙-攻击,0,1,2,ent.3191.attack,sounds02,1244
+11069,hit,剑龙-受击,0,1,3,ent.3191.hit,sounds03,1035
+11070,die,剑龙-死亡,0,1,3,ent.3191.die,sounds03,1559
+11071,idle,霸王龙-待机,0,1,4,ent.3193.idle,sounds04,3407
+11072,foot1,霸王龙-移动1,0,1,1,ent.3193.foot1,sounds01,1409
+11073,foot2,霸王龙-移动2,0,1,1,ent.3193.foot2,sounds01,1423
+11074,foot3,霸王龙-移动3,0,1,1,ent.3193.foot3,sounds01,1420
+11075,attack,霸王龙-攻击,0,1,2,ent.3193.attack,sounds02,1063
+11076,hit,霸王龙-受击,0,1,3,ent.3193.hit,sounds03,1143
+11077,die,霸王龙-死亡,0,1,3,ent.3193.die,sounds03,1266
+11078,idle,机械霸王龙-待机,0,1,4,ent.3197.idle,sounds04,1279
+11079,foot1,机械霸王龙-移动1,0,1,1,ent.3197.foot1,sounds01,628
+11080,foot2,机械霸王龙-移动2,0,1,1,ent.3197.foot2,sounds01,643
+11081,attack,机械霸王龙-攻击,0,1,2,ent.3197.attack,sounds02,1301
+11082,hit,机械霸王龙-受击,0,1,3,ent.3197.hit,sounds03,954
+11083,die,机械霸王龙-死亡,0,1,3,ent.3197.die,sounds03,1369
+11084,freeze,结冰,0,1,6,misc.freeze,sounds01,844
+11085,freezebreak,碎冰,0,1,6,misc.freezebreak,sounds01,645
+11086,hammercharge1,锤武器进行蓄力,0,1,5,item.12010.charge1,sounds05,2000
+11087,hammercharge2,锤武器蓄力完成,0,1,5,item.12010.charge2,sounds05,2000
+11088,hammercharge3,锤武器保持蓄力,0,1,5,item.12010.charge3,sounds05,2000
+11089,hammercharge4,锤武器蓄力释放（砸地）,0,1,5,item.12010.charge4,sounds05,2000
+11090,hammercharge4,锤武器蓄力释放（挥击）,0,1,5,item.12010.hammer_unleash,sounds05,2000
+11091,pollution,虚空蛋爆炸,0,0,6,misc.pollution,sounds06,3000
+11092,shuimoBGM,水墨风BGM,0,1,7,music.shuimoBGM,sounds07,65000
+12001,shipLaser,飞船激光,1,1,5,ent.Zombie.Zombie_TransportPlane_Laser,sounds05,6000
+12002,ShipFly,飞船飞行,1,1,5,ent.Zombie.Zombie_TransportPlane_Fly,sounds05,500
+12003,ShipPosion,毒雾,1,1,5,ent.Zombie.Zombie_TransportPlane_Poison,sounds05,1000
+12004,Zombie_BaseBall_Ball,,1,1,5,ent.Zombie.Zombie_BaseBall_Ball,sounds05,2000
+12005,Zombie_BaseBall_ComeOn,,1,1,5,ent.Zombie.Zombie_BaseBall_ComeOn,sounds05,3000
+12006,Zombie_BaseBall_Shock,,1,1,5,ent.Zombie.Zombie_BaseBall_Shock,sounds05,3000
+12007,Zombie_BaseBall_Throw,,1,1,5,ent.Zombie.Zombie_BaseBall_Throw,sounds05,3000
+12008,ButcherRelease,钩子僵尸出钩,0,0,5,ent.Zombie.Zombie_Butcher_Release,sounds05,1000
+12009,ButcherHit,钩子僵尸收钩,0,0,5,ent.Zombie.Zombie_Butcher_Hit,sounds05,1000
+12010,Zombie_Basic_Scare,普通僵尸惊吓,1,9,9,ent.Zombie.Zombie_Basic_Scare,sounds09,1000
+12011,Zombie_Basic_Die,普通僵尸死亡,1,9,9,ent.Zombie.Zombie_Basic_Die,sounds09,1000
+12012,Zombie_BuffMaker_Flash1,,1,9,9,ent.Zombie.Zombie_BuffMaker_Flash1,sounds09,1000
+12013,Zombie_BuffMaker_Flash2,,1,9,9,ent.Zombie.Zombie_BuffMaker_Flash2,sounds09,1000
+12014,Zombie_BuffMaker_LR,,1,9,9,ent.Zombie.Zombie_BuffMaker_LR,sounds09,1000
+12015,Zombie_BuffMaker_Roll,,1,9,9,ent.Zombie.Zombie_BuffMaker_Roll,sounds09,1000
+12016,Zombie_Qinbao_Release,,1,9,9,ent.Zombie.Zombie_Qinbao_Release,sounds09,3000
+12017,Machine_Break,通用转速/转向不对破坏掉落,0,0,9,Machine.Machine_Break,sounds09,3000
+12018,Machine_Spanner_Use,变相扳手，对方块使用时播放,0,0,9,Machine.Machine_Spanner_Use,sounds09,3000
+12019,Power_HandWheel_Work,手轮，单次掰播放，长按会间隔播放,0,0,9,Machine.Power_HandWheel_Work,sounds09,3000
+12020,Power_Cage_Work,动物轮，工作状态时循环播放，结束停止,0,0,9,Machine.Power_Cage_Work,sounds09,3000
+12021,Power_Underfeed,蒸汽引擎、内燃引擎添加燃料时播放,0,0,9,Machine.Power_Underfeed,sounds09,3000
+12022,Power_Windmill_Work,风车，工作时,0,0,9,Machine.Power_Windmill_Work,sounds09,3000
+12023,Power_SteamEngine_Work,蒸汽引擎，工作状态时循环播放，结束停止,0,0,9,Machine.Power_SteamEngine_Work,sounds09,3000
+12024,Power_CombustionEngines_Work,内燃引擎，工作状态时循环播放，结束停止,0,0,9,Machine.Power_CombustionEngines_Work,sounds09,3000
+12025,Drive_Gearbox_Switch,变速器，交互变速时播放,0,0,9,Machine.Drive_Gearbox_Switch,sounds09,3000
+12026,Drive_Clutch_Switch,离合器，切换开关时播放,0,0,9,Machine.Drive_Clutch_Switch,sounds09,3000
+12027,Drive_Commutator_Switch,换向器，切换换向时播放,0,0,9,Machine.Drive_Commutator_Switch,sounds09,3000
+12028,Drive_Shaft_Work,传动轴，工作状态时循环播放，结束停止,0,0,9,Machine.Drive_Shaft_Work,sounds09,3000
+12029,Drive_Gear_Work,齿轮，工作状态时循环播放，结束停止,0,0,9,Machine.Drive_Gear_Work,sounds09,3000
+12030,Drive_Chain_Work,链条，工作状态时循环播放，结束停止,0,0,9,Machine.Drive_Chain_Work,sounds09,3000
+12031,Drive_TransferCase_Work,分动箱，工作状态时循环播放，结束停止,0,0,9,Machine.Drive_TransferCase_Work,sounds09,3000
+12032,Flow_Funnel_Out,存取器，吐东西,0,0,9,Machine.Flow_Funnel_Out,sounds09,3000
+12033,Flow_Funnel_Input,存取器，吸东西,0,0,9,Machine.Flow_Funnel_Input,sounds09,3000
+12034,Flow_Diverter_Work,分流器，分流时播放,0,0,9,Machine.Flow_Diverter_Work,sounds09,3000
+12035,Flow_Conveyor_Work,传送带，工作状态时循环播放，结束停止,0,0,9,Machine.Flow_Conveyor_Work,sounds09,3000
+12036,Device_Drill_Work,钻头，工作时循环播，结束停止播，破坏方块播DigSound,0,0,9,Machine.Device_Drill_Work,sounds09,3000
+12037,Device_Chainsaw_Work,木锯，工作时循环播，结束停止播，破坏方块播DigSound,0,0,9,Machine.Device_Chainsaw_Work,sounds09,3000
+12038,Device_Harvester_Work,收割机，工作时循环播，结束停止播，破坏方块播DigSound,0,0,9,Machine.Device_Harvester_Work,sounds09,3000
+12039,Device_Place_Work,置块机，工作时循环播，结束停止播，放置方块需要播方块的放置音效PlaceSound,0,0,9,Machine.Device_Place_Work,sounds09,3000
+12040,Device_Paver_Work,筑路机，工作时循环播，结束停止播，放置方块需要播方块的放置音效PlaceSound，破坏方块播DigSound,0,0,9,Machine.Device_Paver_Work,sounds09,3000
+12041,Device_Craft_Work,自动制作台，工作时循环播，结束停止播,0,0,9,Machine.Device_Craft_Work,sounds09,3000
+12042,Device_Craft_Produce,自动制作台，合成成功时播放,0,0,9,Machine.Device_Craft_Produce,sounds09,3000
+12043,Struct_Push_Work,推手，工作时循环播，结束停止播,0,0,9,Machine.Struct_Push_Work,sounds09,3000
+12044,Struct_Pull_Work,推拉手，工作时循环播，结束停止播,0,0,9,Machine.Struct_Pull_Work,sounds09,3000
+12045,Struct_Welding_Use,焊枪，点击使用时播放,0,0,9,Machine.Struct_Welding_Use,sounds09,3000
+12046,Struct_WormGear_Work,蜗杆台，工作时循环播，结束停止播,0,0,9,Machine.Struct_WormGear_Work,sounds09,3000
+12047,RainforestTemple_Summon,羽蛇神神庙召唤，放下雨林之眼后播放,0,0,9,misc.RainforestTemple_Summon,sounds09,3000
+12048,Music_Quetzalcoatl_Battle,羽蛇神战斗音乐，接近羽蛇神播放（血条），渐入，离开后渐出,0,0,9,music.Music_Quetzalcoatl_Battle,sounds09,3000
+12049,Technology_Age_Unlock,科技树，时代解锁,0,0,9,misc.Technology_Age_Unlock,sounds09,3000
+12050,Technology_Unlock,科技树，科技解锁,0,0,9,misc.Technology_Unlock,sounds09,3000
+12051,Quetzalcoatl_Poison,羽蛇神绿色毒发射声音,0,0,9,ent.3878.Quetzalcoatl_Poison,sounds09,3000
+12052,Quetzalcoatl_Jump,羽蛇神蓄力砸的在空中的声音,0,0,9,ent.3878.Quetzalcoatl_Jump,sounds09,3000
+12053,Quetzalcoatl_Drop,羽蛇神砸下的声音，需要点吼的声音,0,0,9,ent.3878.Quetzalcoatl_Drop,sounds09,3000
+12054,Quetzalcoatl_Howl_Charge,羽蛇神吼之前的蓄力,0,0,9,ent.3878.Quetzalcoatl_Howl_Charge,sounds09,3000
+12055,Quetzalcoatl_Howl_Release,羽蛇神吼的声音,0,0,9,ent.3878.Quetzalcoatl_Howl_Release,sounds09,3000
+12056,Quetzalcoatl_Bite_Charge,羽蛇神撕咬的蓄力，叮一下之类的,0,0,9,ent.3878.Quetzalcoatl_Bite_Charge,sounds09,3000
+12057,Quetzalcoatl_Bite_Release,羽蛇神撕咬的声音,0,0,9,ent.3878.Quetzalcoatl_Bite_Release,sounds09,3000
+12058,Machine_Blocking,阻塞音效，机械阻塞时播放,0,0,9,Machine.Machine_Blocking,sounds09,3000
+12059,Quetzalcoatl_Poison_boom,羽蛇神绿色毒爆炸声音,0,0,9,ent.3878.Quetzalcoatl_Poison_boom,sounds09,3000
+12060,Mech_Acceleration,机甲加速跑音效,0,0,9,ent.3274.Mech_Acceleration,sounds09,3000
+12061,Mech_Move,机甲移动音效,0,0,9,ent.3274.Mech_Move,sounds09,3000
+12062,Mech_Die,机甲死亡音效,0,0,9,ent.3274.Mech_Die,sounds09,3000
+12063,Mech_Jump,机甲跳跃音效,0,0,9,ent.3274.Mech_Jump,sounds09,3000
+12064,Mech_Fix,机甲修复音效,0,0,9,ent.3274.Mech_Fix,sounds09,3000
+12065,Mech_BaTian_Admission,霸天机甲出场音效,0,0,9,ent.3274.Mech_BaTian_Admission,sounds09,3000
+12066,Mech_LieDi_Admission,裂地机甲出场音效,0,0,9,ent.3275.Mech_LieDi_Admission,sounds09,3000
+13000,ent.3278.Cat_Under_attack,猫咪受到攻击时播放受击音效,1,1,3,ent.3278.Cat_Under_attack,sounds03,140
+13001,ent.3278.Cat_Snoring,猫咪睡觉时的打呼声,1,1,2,ent.3278.Cat_Snoring,sounds02,12180
+13002,ent.3278.Cat_Feeling_frightened,猫咪受到惊吓时播放,1,1,2,ent.3278.Cat_Feeling_frightened,sounds02,230
+13003,ent.3278.Cat_huff,猫咪哈气时播放,1,1,2,ent.3278.Cat_huff,sounds02,1010
+13004,ent.3278.Cat_Death,猫咪死亡时播放,1,1,3,ent.3278.Cat_Death,sounds03,1240
+13005,ent.3278.Cat_Meme1,猫Meme1：抱头猫,1,1,2,ent.3278.Cat_Meme1,sounds02,2290
+13006,ent.3278.Cat_Meme2,猫Meme2：歪头猫,1,1,2,ent.3278.Cat_Meme2,sounds02,210
+13007,ent.3278.Cat_Meme3,猫Meme3：Happy猫,1,1,2,ent.3278.Cat_Meme3,sounds02,9110
+13008,ent.3278.Cat_friendly,猫咪靠近玩家时播放,1,1,2,ent.3278.Cat_friendly,sounds02,1090
+13009,ent.3279.LittleCat_Death,小猫咪死亡时播放,1,1,3,ent.3279.LittleCat_Death,sounds03,240
+13010,ent.3279.LittleCat_Under_attack,小猫咪受到攻击时播放受击音效,1,1,3,ent.3279.LittleCat_Under_attack,sounds03,120
+13011,ent.3276.Dog_Pant,大狗被吸引、驯服、玩耍时播放的，吐舌头喘气效果,1,1,2,ent.3276.Dog_Pant,sounds02,2230
+13012,ent.3276.Dog_Whimper,死亡时播放大狗呜咽,1,1,3,ent.3276.Dog_Whimper,sounds03,1030
+13013,ent.3276.Dog_Snor,睡觉时播放小声的打呼声,1,1,2,ent.3276.Dog_Snor,sounds02,1140
+13014,ent.3276.Dog_Chase,大狗之间的追逐声，喘息吠叫,1,1,2,ent.3276.Dog_Chase,sounds02,12040
+13015,ent.3276.Dog_Warn,吓唬、有敌对入侵、主人被打，发出警报吠叫,1,1,2,ent.3276.Dog_Warn,sounds02,2210
+13016,ent.3276.Dog_Threat,靠近过发出低吼吠叫声,1,1,2,ent.3276.Dog_Threat,sounds02,6190
+13017,ent.3277.LitterDog_Whimper,死亡时播放小狗呜咽,1,1,3,ent.3277.LitterDog_Whimper,sounds03,1130
+13018,ent.3277.LitterDog_happy,小狗之间追逐、吓唬周围小鸡时候播放快乐吠叫,1,1,2,ent.3277.LitterDog_happy,sounds02,1270
+13019,ent.3284.animal_pig_oink1,猪受击时播放,1,1,3,ent.3284.animal_pig_oink1,sounds03,110
+13020,ent.3284.animal_pig_oink2,猪死亡时播放,1,1,3,ent.3284.animal_pig_oink2,sounds03,150
+13021,ent.3284.animal_pig_oink4,猪移动时播放,1,1,1,ent.3284.animal_pig_oink4,sounds01,100
+13022,ent.3284.animal_pig_oink5,猪被喂食时播放,1,1,2,ent.3284.animal_pig_oink5,sounds02,1180
+13023,ent.3284.animal_pig_oink6,猪触发拱地动作时播放,1,1,2,ent.3284.animal_pig_oink6,sounds02,240
+13024,ent.3284.animal_pig_oink7,猪触发待机动作打滚时播放,1,1,4,ent.3284.animal_pig_oink7,sounds04,1100
+13025,ent.3284.animal_pig_oink11,猪触发待机动作拱鼻子时播放,1,1,4,ent.3284.animal_pig_oink11,sounds04,280
+13026,ent.3284.animal_pig_oink8,猪触发待机动作扑腾时播放,1,1,4,ent.3284.animal_pig_oink8,sounds04,220
+13027,ent.3284.animal_pig_oink9,猪触发待机动作蹬腿时播放,1,1,4,ent.3284.animal_pig_oink9,sounds04,120
+13028,ent.3284.animal_pig_oink10,猪触发待机动作甩脑袋时播放,1,1,4,ent.3284.animal_pig_oink10,sounds04,110
+13029,ent.3284.animal_pig_oink12,猪触发待机动作流鼻子时播放,1,1,4,ent.3284.animal_pig_oink12,sounds04,200
+13030,ent.3284.animal_pig_oink3,猪睡觉时的音效,1,1,2,ent.3284.animal_pig_oink3,sounds02,4000
+13031,ent.3285.animal_pig_oink1,小猪受击时播放,1,1,3,ent.3285.animal_pig_oink1,sounds03,110
+13032,ent.3285.animal_pig_oink2,小猪死亡时播放,1,1,3,ent.3285.animal_pig_oink2,sounds03,150
+13033,ent.3285.animal_pig_oink4,小猪移动时播放,1,1,1,ent.3285.animal_pig_oink4,sounds01,100
+13034,ent.3285.animal_pig_oink3,小猪睡觉时的音效,1,1,2,ent.3285.animal_pig_oink3,sounds02,4000
+13035,ent.3285.animal_pig_oink5,小猪被喂食时播放,1,1,2,ent.3285.animal_pig_oink5,sounds02,1180
+13036,ent.3285.animal_pig_oink7,小猪触发待机动作打滚时播放,1,1,4,ent.3285.animal_pig_oink7,sounds04,1100
+13037,ent.3285.animal_pig_oink11,小猪触发待机动作拱鼻子时播放,1,1,4,ent.3285.animal_pig_oink11,sounds04,280
+13038,ent.3282.chicken1,成年鸡打鸣时播放,1,1,2,ent.3282.chicken1,sounds02,2270
+13039,ent.3282.chicken2,成年鸡受击、死亡时播放,1,1,3,ent.3282.chicken2,sounds03,260
+13040,ent.3282.chicken3,成年鸡扑棱时、伸缩头时播放,1,1,2,ent.3282.chicken3,sounds02,2180
+13041,ent.3283.chick,小鸡受击、死亡时播放,1,1,3,ent.3283.chick,sounds03,1020
+13042,ent.3280.hit,野兔受击、死亡时播放,1,1,3,ent.3280.hit,sounds03,180
+13043,ent.3280.eat1,野兔进食时播放（吃软体食物）,1,1,2,ent.3280.eat1,sounds02,2000
+13044,ent.3280.eat2,野兔进食时播放（吃脆口食物）,1,1,2,ent.3280.eat2,sounds02,2130
+13045,ent.3280.run,野兔奔跑时播放,1,1,1,ent.3280.run,sounds01,1220
+13046,ent.3281.hit,小野兔受击、死亡时播放,1,1,3,ent.3281.hit,sounds03,180
+13047,ent.3281.eat1,小野兔进食时播放（吃软体食物）,1,1,2,ent.3281.eat1,sounds02,2000
+13048,ent.3281.eat2,小野兔进食时播放（吃脆口食物）,1,1,2,ent.3281.eat2,sounds02,2130
+13049,ent.3281.run,小野兔奔跑时播放,1,1,1,ent.3281.run,sounds01,1220
+13050,ent.3284.animal_pig_oink13,猪待机时播放,1,1,4,ent.3284.animal_pig_oink13,sounds04,190
+13051,ent.3285.animal_pig_oink14,小猪待机时播放,1,1,4,ent.3285.animal_pig_oink14,sounds04,150
+13052,ent.3278.Cat_Petting,撸猫音效,1,1,2,ent.3278.Cat_Petting,sounds02,220
+13053,ent.3278.Cat_Bark1,猫叫声1,1,1,4,ent.3278.Cat_Bark1,sounds04,250
+13054,ent.3278.Cat_Bark2,猫叫声2,1,1,4,ent.3278.Cat_Bark2,sounds04,2210
+13055,ent.3278.Cat_Bark3,猫叫声3,1,1,4,ent.3278.Cat_Bark3,sounds04,1010
+13056,ent.3278.Cat_Bark4,猫叫声4,1,1,4,ent.3278.Cat_Bark4,sounds04,270
+13057,ent.3276.Dog_Attack,大狗攻击音效,1,1,2,ent.3276.Dog_Attack,sounds02,130
+13058,ent.3276.Dog_Hit,狗受击音效,1,1,3,ent.3276.Dog_Hit,sounds03,140
+13059,ent.3276.Dog_Bark1,大狗叫声1,1,1,2,ent.3276.Dog_Bark1,sounds02,260
+13060,ent.3276.Dog_Bark2,大狗叫声2,1,1,2,ent.3276.Dog_Bark2,sounds02,1210
+13061,ent.3276.Dog_Bark3,大狗叫声3,1,1,2,ent.3276.Dog_Bark3,sounds02,1120
+13062,ent.3277.LitterDog_Attack,小狗攻击音效,1,1,2,ent.3277.LitterDog_Attack,sounds02,70
+13063,ent.3277.LitterDog_Bark1,小狗叫声1,1,1,2,ent.3277.LitterDog_Bark1,sounds02,250
+13064,ent.3277.LitterDog_Bark2,小狗叫声2,1,1,2,ent.3277.LitterDog_Bark2,sounds02,1030
+13065,ent.3277.LitterDog_Bark3,小狗叫声3,1,1,2,ent.3277.LitterDog_Bark3,sounds02,1230
+13066,ent.3282.idle1,待机时播放1,1,1,4,ent.3282.idle1,sounds04,200
+13067,ent.3282.idle2,待机时播放2,1,1,4,ent.3282.idle2,sounds04,170
+13068,ent.3282.idle3,待机时播放3,1,1,4,ent.3282.idle3,sounds04,1040
+13069,ent.3290.die,死亡,1,1,3,ent.3290.die,sounds03,2000
+13070,ent.3290.getup,起床,1,1,2,ent.3290.getup,sounds02,2000
+13071,ent.3290.happy,被吸引/高兴,1,1,2,ent.3290.happy,sounds02,6000
+13072,ent.3290.hited,受击,1,1,3,ent.3290.hited,sounds03,2000
+13073,ent.3290.milked,被挤奶,1,1,2,ent.3290.milked,sounds02,2000
+13074,ent.3290.pupu,排便,1,1,2,ent.3290.pupu,sounds02,2000
+13075,ent.3290.sleep,打呼,1,1,2,ent.3290.sleep,sounds02,6000
+13076,ent.3291.galf,小奶牛,1,1,2,ent.3291.galf,sounds02,2000
+13077,ent.3294.attract1,仓鼠_被吸引1,1,1,2,ent.3294.attract1,sounds02,1000
+13078,ent.3294.attract2,仓鼠_被吸引2,1,1,2,ent.3294.attract2,sounds02,1000
+13079,ent.3294.attract3,仓鼠_被吸引3,1,1,2,ent.3294.attract3,sounds02,1000
+13080,ent.3294.attract4,仓鼠_被吸引4,1,1,2,ent.3294.attract4,sounds02,1000
+13081,ent.3294.attract5,仓鼠_被吸引5,1,1,2,ent.3294.attract5,sounds02,1000
+13082,ent.3294.sleep,仓鼠_睡觉磨牙,1,1,2,ent.3294.sleep,sounds02,2100
+13083,ent.3294.detect,仓鼠_嗅探,1,1,2,ent.3294.detect,sounds02,1100
+13084,ent.3294.fear,仓鼠_害怕,1,1,2,ent.3294.fear,sounds02,1100
+13085,ent.3294.dig,仓鼠_挖,1,1,2,ent.3294.dig,sounds02,1100
+13086,ent.3294.bounce,仓鼠_跳,1,1,2,ent.3294.bounce,sounds02,1000
+13087,ent.3294.happy1,仓鼠_开心1,1,1,2,ent.3294.happy1,sounds02,1100
+13088,ent.3294.happy2,仓鼠_开心2,1,1,2,ent.3294.happy2,sounds02,1100
+13089,ent.3294.happy3,仓鼠_开心3,1,1,2,ent.3294.happy3,sounds02,1100
+13090,ent.3294.fight,仓鼠_打架,1,1,2,ent.3294.fight,sounds02,1100
+13091,ent.3294.attack,仓鼠_攻击,1,1,2,ent.3294.attack,sounds02,1100
+13092,ent.3294.hit,仓鼠_受击,1,1,3,ent.3294.hit,sounds03,1000
+13093,ent.3294.died,仓鼠_死亡,1,1,3,ent.3294.died,sounds03,1000
+13094,ent.3294.idle1,仓鼠_待机1,1,1,4,ent.3294.idle1,sounds04,1000
+13095,ent.3294.idle2,仓鼠_待机2,1,1,4,ent.3294.idle2,sounds04,1000
+13096,ent.3294.idle3,仓鼠_待机3,1,1,4,ent.3294.idle3,sounds04,1000
+13097,ent.3294.idle4,仓鼠_待机4,1,1,4,ent.3294.idle4,sounds04,1000
+13098,ent.3294.idle5,仓鼠_待机5,1,1,4,ent.3294.idle5,sounds04,1100
+13099,ent.3288.wild_sheep1,野羊受击时播放,1,1,3,ent.3288.wild_sheep1,sounds03,600
+13100,ent.3288.wild_sheep2,野羊死亡时播放,1,1,3,ent.3288.wild_sheep2,sounds03,1100
+13101,ent.3288.wild_sheep3,野羊冲撞时播放,1,1,2,ent.3288.wild_sheep3,sounds02,1060
+13102,ent.3288.wild_sheep4,野羊交互时播放,1,1,2,ent.3288.wild_sheep4,sounds02,1020
+13103,ent.3288.wild_sheep5,野羊睡觉时播放,1,1,2,ent.3288.wild_sheep5,sounds02,2150
+13104,ent.3288.wild_sheep6,野羊待机时播放,1,1,4,ent.3288.wild_sheep6,sounds04,290
+13105,ent.3288.wild_sheep7,野羊摇晃动作时播放,1,1,2,ent.3288.wild_sheep7,sounds02,1140
+13106,ent.3289.wild_sheep1,小野羊受击时播放,1,1,3,ent.3289.wild_sheep1,sounds03,640
+13107,ent.3289.wild_sheep2,小野羊死亡时播放,1,1,3,ent.3289.wild_sheep2,sounds03,290
+13108,ent.3289.wild_sheep3,小野羊待机时播放,1,1,4,ent.3289.wild_sheep3,sounds04,1120
+13109,ent.3292.sheep1,绵羊受伤音效,1,1,3,ent.3292.sheep1,sounds03,600
+13110,ent.3292.sheep2,绵羊死亡音效,1,1,3,ent.3292.sheep2,sounds03,1230
+13111,ent.3292.sheep3,绵羊反弹音效,1,1,2,ent.3292.sheep3,sounds02,1030
+13112,ent.3292.sheep4,绵羊薅毛音效,1,1,2,ent.3292.sheep4,sounds02,2200
+13113,ent.3292.sheep5,绵羊抖身体音效,1,1,2,ent.3292.sheep5,sounds02,1190
+13114,ent.3292.sheep6,绵羊待机音效,1,1,4,ent.3292.sheep6,sounds04,1120
+13115,ent.3286.bison1,野牛待机音效1,1,1,4,ent.3286.bison1,sounds04,1260
+13116,ent.3286.bison2,野牛待机音效2,1,1,4,ent.3286.bison2,sounds04,2150
+13117,ent.3286.bison3,野牛待机音效3,1,1,4,ent.3286.bison3,sounds04,2070
+13118,ent.3286.bison4,野牛脚步音效,1,1,1,ent.3286.bison4,sounds01,2160
+13119,ent.3286.bison5,野牛发怒音效1,1,1,2,ent.3286.bison5,sounds02,2070
+13120,ent.3286.bison6,野牛发怒音效2,1,1,2,ent.3286.bison6,sounds02,2020
+13121,ent.3286.bison7,野牛吃草音效,1,1,2,ent.3286.bison7,sounds02,5190
+13122,ent.3286.bison8,野牛睡觉音效,1,1,2,ent.3286.bison8,sounds02,1280
+13123,ent.3287.bison1,小野牛待机音效,1,1,4,ent.3287.bison1,sounds04,1410
+13124,ent.3287.bison2,小野牛受伤音效,1,1,3,ent.3287.bison2,sounds03,230
+13125,die,熊猫死亡,0,1,2,ent.3416.die,sounds02,1000
+13126,eat,熊猫吃东西,0,1,2,ent.3416.eat,sounds02,1250
+13127,foot1,熊猫脚步1,0,1,1,ent.3416.foot1,sounds01,621
+13128,foot2,熊猫脚步2,0,1,1,ent.3416.foot2,sounds01,800
+13129,hit1,熊猫受击1,0,1,3,ent.3416.hit1,sounds03,500
+13130,hit2,熊猫受击2,0,1,3,ent.3416.hit2,sounds03,574
+13131,hit3,熊猫受击3,0,1,3,ent.3416.hit3,sounds03,316
+13132,hunger,熊猫饥饿,0,1,2,ent.3416.hunger,sounds02,875
+13133,idel1,熊猫空闲1,0,1,2,ent.3416.idel1,sounds02,760
+13134,idel2,熊猫空闲2,0,1,2,ent.3416.idel2,sounds02,665
+13135,idel3,熊猫空闲3,0,1,2,ent.3416.idel3,sounds02,715
+13136,idel4,熊猫空闲4,0,1,2,ent.3416.idel4,sounds02,1452
+13137,idle1,熊猫待机1,0,1,2,ent.3416.idle1,sounds02,1125
+13138,idle2,熊猫待机2,0,1,2,ent.3416.idle2,sounds02,1625
+13139,idle3,熊猫待机3,0,1,2,ent.3416.idle3,sounds02,1500
+13140,ent.3407.attack,狼攻击,0,1,2,ent.3407.attack,sounds02,1000
+13141,buff_spellrain,咒雨buff,0,1,5,buff.buff_spellrain,sounds05,5000
+13142,buff_grassgrown,生草buff,0,1,5,buff.buff_grassgrown,sounds05,1000
+13143,bottlebreak,瓶子破碎,0,1,5,misc.bottlebreak,sounds05,1000
+13144,refinable_working,符能提炼装置-工作中,0,1,6,misc.refinable_working,sounds06,10000
+13145,refinable_ok,符能提炼装置-提炼成功,0,1,8,misc.refinable_ok,sounds08,2000
+13146,refinable_error,符能提炼装置-提炼失败,0,1,8,misc.refinable_error,sounds08,2000
+13147,spell_charge,法术蓄力,0,1,5,misc.spell_charge,sounds05,4000
+13148,animating_release,活化术释放,0,1,5,misc.animating_release,sounds05,1000
+13149,vitalizing_release,催生术释放,0,1,5,misc.vitalizing_release,sounds05,3000
+13150,formConcealing_release,隐身术释放,0,1,5,misc.formConcealing_release,sounds05,1000
+13151,gleaning_release,采集术释放,0,1,5,misc.gleaning_release,sounds05,3000
+13152,gleaning_loop,采集术循环,0,1,5,misc.gleaning_loop,sounds05,10000
+13153,cleaving_release,破石术释放,0,1,5,misc.cleaving_release,sounds05,5000
+13154,stonebreak,岩石破坏,0,1,5,misc.stonebreak,sounds05,2000
+13155,insightRevealing_release,洞察术释放,0,1,5,misc.insightRevealing_release,sounds05,3000
+13156,oreSeeking_release,探矿术释放,0,1,5,misc.oreSeeking_release,sounds05,2000
+13157,heightElevating_loop,升高术循环,0,1,5,misc.heightElevating_loop,sounds05,3000
+13158,fireWork_burst,烟花术爆炸,0,1,5,misc.fireWork_burst,sounds05,1000
+13159,jump,跳跃,0,1,5,misc.jump,sounds05,1000
+13160,ent.3415.idle3,,0,1,4,ent.3415.idle3,sounds04,1000
+13161,ent.3415.idle4,,0,1,4,ent.3415.idle4,sounds04,1000
+13162,ent.3415.surprise,,0,1,4,ent.3415.surprise,sounds04,1000
+13163,ent.3415.cheer,,0,1,4,ent.3415.cheer,sounds04,1000
+13164,AltarAwaken,激活祭坛,0,1,5,misc.AltarAwaken,sounds05,2018
+13165,SpellSummon,召唤法阵,0,1,5,misc.SpellSummon,sounds05,6400
+13166,dog_cast,狗法师-施法,0,1,5,npc.dog_cast,sounds05,1333
+13167,dog_spawn,狗法师-产出,0,1,5,npc.dog_spawn,sounds05,2000
+13168,dog_interact,狗法师-对话短促,0,1,4,npc.dog_interact,sounds04,1067
+13169,dog_approach,狗法师-面对面对话,0,1,4,npc.dog_approach,sounds04,1600
+13170,dog_collect,狗法师-领取奖励,0,1,8,npc.dog_collect,sounds08,1600
+13171,StoryFragment,信纸展开音效,0,1,9,misc.StoryFragment,sounds09,1000
+13172,dog_special,狗法师-特殊对话,0,1,4,npc.dog_special,sounds04,1000
+13173,elder_talk,老村长-对话,0,1,4,npc.elder_talk,sounds04,2867
+13174,RealmPortalAwaken,传送门激活音效,0,1,9,misc.RealmPortalAwaken,sounds09,2000
+13175,PortalTapCue,空间传送按钮,0,1,9,misc.PortalTapCue,sounds09,1000
+20001,ent.3018.hit,,0,1,3,ent.3018.hit1,sounds03,1000
+20002,ent.3101.hit,,0,1,3,ent.3101.hit1,sounds03,1000
+20003,ent.3102.hit,,0,1,3,ent.3102.hit1,sounds03,1000
+20004,ent.3103.hit,,0,1,3,ent.3103.hit1,sounds03,1000
+20005,ent.3105.hit,,0,1,3,ent.3105.hit1,sounds03,1000
+20006,ent.3107.hit,,0,1,3,ent.3107.hit1,sounds03,1000
+20007,ent.3109.hit,,0,1,3,ent.3109.hit1,sounds03,1000
+20008,ent.3110.hit,,0,1,3,ent.3110.hit1,sounds03,1000
+20009,ent.3111.hit,,0,1,3,ent.3111.hit1,sounds03,1000
+20010,ent.3112.hit,,0,1,3,ent.3112.hit1,sounds03,1000
+20011,ent.3120.hit,,0,1,3,ent.3120.hit1,sounds03,1000
+20012,ent.3121.hit,,0,1,3,ent.3121.hit1,sounds03,1000
+20013,ent.3123.hit,,0,1,3,ent.3123.hit1,sounds03,1000
+20014,ent.3130.hit,,0,1,3,ent.3130.hit1,sounds03,1000
+20015,ent.3131.hit,,0,1,3,ent.3131.hit1,sounds03,1000
+20016,ent.3135.hit,,0,1,3,ent.3135.hit1,sounds03,1000
+20017,ent.3200.hit,,0,1,3,ent.3200.hit1,sounds03,1000
+20018,ent.3201.hit,,0,1,3,ent.3201.hit1,sounds03,1000
+20019,ent.3202.hit,,0,1,3,ent.3202.hit1,sounds03,1000
+20020,ent.3205.hit,,0,1,3,ent.3205.hit,sounds03,1000
+20021,ent.3206.hit,,0,1,3,ent.3206.hit,sounds03,1000
+20022,ent.3207.hit,,0,1,3,ent.3207.hit,sounds03,1000
+20023,ent.3208.hit,,0,1,3,ent.3208.hit,sounds03,1000
+20024,ent.3209.hit,,0,1,3,ent.3209.hit,sounds03,1000
+20025,ent.3210.hit,,0,1,3,ent.3210.hit,sounds03,1000
+20026,ent.3211.hit,,0,1,3,ent.3211.hit,sounds03,1000
+20027,ent.3212.hit,,0,1,3,ent.3212.hit,sounds03,1000
+20028,ent.3214.hit,,0,1,3,ent.3214.hit,sounds03,1000
+20029,ent.3215.hit,,0,1,3,ent.3215.hit,sounds03,1000
+20030,ent.3216.hit,,0,1,3,ent.3216.hit,sounds03,1000
+20031,ent.3217.hit,,0,1,3,ent.3217.hit,sounds03,1000
+20032,ent.3218.hit,,0,1,3,ent.3218.hit,sounds03,1000
+20033,ent.3219.hit,,0,1,3,ent.3219.hit,sounds03,1000
+20034,ent.3220.hit,,0,1,3,ent.3220.hit,sounds03,1000
+20035,ent.3222.hit,,0,1,3,ent.3222.hit,sounds03,1000
+20036,ent.3223.hit,,0,1,3,ent.3223.hit,sounds03,1000
+20037,ent.3224.seaspirithit1,,0,1,3,ent.3224.seaspirithit1,sounds03,1000
+20038,ent.3229.hit,,0,1,3,ent.3229.hit,sounds03,1000
+20039,ent.3415.hit,,0,1,3,ent.3415.hit1,sounds03,1000
+20040,ent.3403.hit,,0,1,3,ent.3403.hit1,sounds03,1000
+20041,ent.3910.hit,,0,1,3,ent.3910.hit,sounds03,1000
+20042,ent.3885.hit,,0,1,3,ent.3885.hit1,sounds03,1000
+20043,ent.3401.hit,,0,1,3,ent.3401.hit1,sounds03,1000
+20044,ent.3621.hit1,,0,1,3,ent.3621.hit1,sounds03,1000
+20045,ent.3407.hit,,0,1,3,ent.3407.hit1,sounds03,1000
+20046,ent.3872.hit,,0,1,3,ent.3872.hit,sounds03,1000
+20047,ent.3400.hit,,0,1,3,ent.3400.hit1,sounds03,1000
+20048,ent.3402.idle,,0,1,3,ent.3402.idle1,sounds03,1000
+20049,ent.3405.hit,,0,1,3,ent.3405.hit1,sounds03,1000
+20050,ent.3406.hit,,0,1,3,ent.3406.hit1,sounds03,1000
+20051,ent.3408.hit,,0,1,3,ent.3408.hit1,sounds03,1000
+20052,ent.3409.hit,,0,1,3,ent.3409.hit1,sounds03,1000
+20053,ent.3410.hit,,0,1,3,ent.3410.hit1,sounds03,1000
+20054,ent.3416.hit,,0,1,3,ent.3416.hit1,sounds03,1000
+20055,ent.3418.hit,,0,1,3,ent.3418.hit1,sounds03,1000
+20056,ent.3421.hit,,0,1,3,ent.3421.hit1,sounds03,1000
+20057,ent.3423.hit,,0,1,3,ent.3423.hit1,sounds03,1000
+20058,ent.3501.hit,,0,1,3,ent.3501.hit1,sounds03,1000
+20059,ent.3502.hit,,0,1,3,ent.3502.hit1,sounds03,1000
+20060,ent.3505.hit,,0,1,3,ent.3505.hit1,sounds03,1000
+20061,ent.3506.hit,,0,1,3,ent.3506.hit1,sounds03,1000
+20062,ent.3507.hit,,0,1,3,ent.3507.hit1,sounds03,1000
+20063,ent.3508.hit,,0,1,3,ent.3508.hit1,sounds03,1000
+20064,ent.3403.idle,,0,1,3,ent.3403.idle,sounds03,1000
+20065,ent.3822.hit,,0,1,3,ent.3822.hit1,sounds03,1000
+20066,ent.3824.hit,,0,1,3,ent.3824.hit,sounds03,1000
+20068,ent.3826.hit,,0,1,3,ent.3826.hit,sounds03,1000
+20069,ent.3881.hit,,0,1,3,ent.3881.hit1,sounds03,1000
+20070,ent.3883.hit,,0,1,3,ent.3883.hit1,sounds03,1000
+20071,ent.3892.hit,,0,1,3,ent.3892.hit1,sounds03,1000
+20072,ent.3912.angry,,0,1,3,ent.3912.angry,sounds03,1000
+20073,ent.3914.hit,,0,1,3,ent.3914.hit,sounds03,1000
+20074,ent.3915.hit,,0,1,3,ent.3915.hit,sounds03,1000
+20075,ent.3135.die,,0,1,3,ent.3135.die,sounds03,1000
+20076,ent.3214.die,,0,1,3,ent.3214.die,sounds03,1000
+20077,ent.3215.die,,0,1,3,ent.3215.die,sounds03,1000
+20078,ent.3216.die,,0,1,3,ent.3216.die,sounds03,1000
+20079,ent.3217.die,,0,1,3,ent.3217.die,sounds03,1000
+20080,ent.3218.die,,0,1,3,ent.3218.die,sounds03,1000
+20081,ent.3219.die,,0,1,3,ent.3219.die,sounds03,1000
+20082,ent.3220.die,,0,1,3,ent.3220.die,sounds03,1000
+20083,ent.3222.die,,0,1,3,ent.3222.die,sounds03,1000
+20084,ent.3223.die,,0,1,3,ent.3223.die,sounds03,1000
+20085,ent.3224.seaspiritdie1,,0,1,3,ent.3224.seaspiritdie1,sounds03,1000
+20086,ent.3229.die,,0,1,3,ent.3229.die,sounds03,1000
+20087,ent.3403.die,,0,1,3,ent.3403.die,sounds03,1000
+20088,ent.3885.die,,0,1,3,ent.3885.die,sounds03,1000
+20089,ent.3822.die,,0,1,3,ent.3822.die,sounds03,1000
+20090,ent.3824.die,,0,1,3,ent.3824.die,sounds03,1000
+20091,ent.3825.die,,0,1,3,ent.3825.die,sounds03,1000
+20092,ent.3826.die,,0,1,3,ent.3826.die,sounds03,1000
+20093,ent.3881.die,,0,1,3,ent.3881.die,sounds03,1000
+20094,ent.3883.die,,0,1,3,ent.3883.die,sounds03,1000
+20095,ent.3892.die,,0,1,3,ent.3892.die,sounds03,1000
+20096,ent.3912.jet,,0,1,3,ent.3912.jet,sounds03,1000
+20097,ent.3914.die,,0,1,3,ent.3914.die,sounds03,1000
+20098,ent.3915.die,,0,1,3,ent.3915.die,sounds03,1000
+20099,ent.3014.idle,,0,1,4,ent.3014.idle,sounds04,1000
+20100,ent.3015.idle,,0,1,4,ent.3015.idle,sounds04,1000
+20101,ent.3016.idle,,0,1,4,ent.3016.idle,sounds04,1000
+20102,ent.3018.idle,,0,1,4,ent.3018.idle,sounds04,1000
+20103,ent.3019.idle,,0,1,4,ent.3019.idle,sounds04,1000
+20104,ent.3101.idle,,0,1,4,ent.3101.idle,sounds04,1000
+20105,ent.3102.idle,,0,1,4,ent.3102.idle,sounds04,1000
+20106,ent.3103.idle,,0,1,4,ent.3103.idle,sounds04,1000
+20107,ent.3105.idle,,0,1,4,ent.3105.idle,sounds04,1000
+20108,ent.3107.idle,,0,1,4,ent.3107.idle,sounds04,1000
+20109,ent.3109.idle,,0,1,4,ent.3109.idle,sounds04,1000
+20110,ent.3110.idle,,0,1,4,ent.3110.idle,sounds04,1000
+20111,ent.3111.idle,,0,1,4,ent.3111.idle,sounds04,1000
+20112,ent.3112.idle,,0,1,4,ent.3112.idle,sounds04,1000
+20113,ent.3120.idle,,0,1,4,ent.3120.idle,sounds04,1000
+20114,ent.3121.idle,,0,1,4,ent.3121.idle,sounds04,1000
+20115,ent.3123.idle,,0,1,4,ent.3123.idle,sounds04,1000
+20116,ent.3130.idle,,0,1,4,ent.3130.idle,sounds04,1000
+20117,ent.3131.idle,,0,1,4,ent.3131.idle,sounds04,1000
+20118,ent.3135.idle,,0,1,4,ent.3135.idle,sounds04,1000
+20119,ent.3200.idle,,0,1,4,ent.3200.idle,sounds04,1000
+20120,ent.3201.idle,,0,1,4,ent.3201.idle,sounds04,1000
+20121,ent.3202.idle,,0,1,4,ent.3202.idle,sounds04,1000
+20122,ent.3205.idle1,,0,1,4,ent.3205.idle1,sounds04,1000
+20123,ent.3206.idle1,,0,1,4,ent.3206.idle1,sounds04,1000
+20124,ent.3207.idle1,,0,1,4,ent.3207.idle1,sounds04,1000
+20125,ent.3208.idle1,,0,1,4,ent.3208.idle1,sounds04,1000
+20126,ent.3209.idle1,,0,1,4,ent.3209.idle1,sounds04,1000
+20127,ent.3210.idle1,,0,1,4,ent.3210.idle1,sounds04,1000
+20128,ent.3211.idle1,,0,1,4,ent.3211.idle1,sounds04,1000
+20129,ent.3212.idle1,,0,1,4,ent.3212.idle1,sounds04,1000
+20130,ent.3214.idle1,,0,1,4,ent.3214.idle1,sounds04,1000
+20131,ent.3215.idle1,,0,1,4,ent.3215.idle1,sounds04,1000
+20132,ent.3216.idle1,,0,1,4,ent.3216.idle1,sounds04,1000
+20133,ent.3217.idle1,,0,1,4,ent.3217.idle1,sounds04,1000
+20134,ent.3218.idle1,,0,1,4,ent.3218.idle1,sounds04,1000
+20135,ent.3219.idle1,,0,1,4,ent.3219.idle1,sounds04,1000
+20136,ent.3220.idle1,,0,1,4,ent.3220.idle1,sounds04,1000
+20137,ent.3222.idle1,,0,1,4,ent.3222.idle1,sounds04,1000
+20138,ent.3223.idle1,,0,1,4,ent.3223.idle1,sounds04,1000
+20139,ent.3229.idle1,,0,1,4,ent.3229.idle1,sounds04,1000
+20140,ent.3415.idle,,0,1,4,ent.3415.idle,sounds04,1000
+20141,ent.3885.idle,,0,1,4,ent.3885.idle,sounds04,1000
+20142,ent.3401.idle,,0,1,4,ent.3401.idle,sounds04,1000
+20143,ent.3407.idle,,0,1,4,ent.3407.idle,sounds04,1000
+20144,ent.3872.leopardroar,,0,1,4,ent.3872.leopardroar,sounds04,1000
+20145,ent.3400.idle,,0,1,4,ent.3400.idle,sounds04,1000
+20146,ent.3405.idle,,0,1,4,ent.3405.idle,sounds04,1000
+20147,ent.3406.idle,,0,1,4,ent.3406.idle,sounds04,1000
+20148,ent.3408.idle,,0,1,4,ent.3408.idle,sounds04,1000
+20149,ent.3409.idle,,0,1,4,ent.3409.idle,sounds04,1000
+20150,ent.3410.idle,,0,1,4,ent.3410.idle,sounds04,1000
+20151,ent.3416.idle,,0,1,4,ent.3416.idle,sounds04,1000
+20152,ent.3418.idle,,0,1,4,ent.3418.idle,sounds04,1000
+20153,ent.3421.idle,,0,1,4,ent.3421.idle,sounds04,1000
+20154,ent.3423.idle,,0,1,4,ent.3423.idle,sounds04,1000
+20155,ent.3424.idle,,0,1,4,ent.3424.idle,sounds04,1000
+20156,ent.3501.idle,,0,1,4,ent.3501.idle,sounds04,1000
+20157,ent.3502.idle,,0,1,4,ent.3502.idle,sounds04,1000
+20158,ent.3505.idle,,0,1,4,ent.3505.idle,sounds04,1000
+20159,ent.3506.idle,,0,1,4,ent.3506.idle,sounds04,1000
+20160,ent.3507.idle,,0,1,4,ent.3507.idle,sounds04,1000
+20161,ent.3508.idle,,0,1,4,ent.3508.idle,sounds04,1000
+20162,ent.3407.growl,,0,1,4,ent.3407.growl,sounds04,1000
+20163,ent.3408.bark,,0,1,4,ent.3408.bark,sounds04,1000
+20164,ent.3824.idle,,0,1,4,ent.3824.idle,sounds04,1000
+20165,ent.3825.idle,,0,1,4,ent.3825.idle,sounds04,1000
+20166,ent.3826.idle,,0,1,4,ent.3826.idle,sounds04,1000
+20167,ent.3870.monkeyexcite,,0,1,4,ent.3870.monkeyexcite,sounds04,1000
+20168,ent.3870.monkeycaw,,0,1,4,ent.3870.monkeycaw,sounds04,1000
+20169,ent.3873.priestwhisper,,0,1,4,ent.3873.priestwhisper,sounds04,1000
+20170,ent.3878.snake,,0,1,4,ent.3878.snake,sounds04,1000
+20171,ent.3881.idle,,0,1,4,ent.3881.idle,sounds04,1000
+20172,ent.3883.idle,,0,1,4,ent.3883.idle,sounds04,1000
+20173,ent.3892.idle,,0,1,4,ent.3892.idle,sounds04,1000
+20174,ent.3912.idle,,0,1,4,ent.3912.idle,sounds04,1000
+20175,ent.3914.idle,,0,1,4,ent.3914.idle,sounds04,1000
+20176,ent.3915.idle,,0,1,4,ent.3915.idle,sounds04,1000
+20177,ent.3019.foot,,0,1,1,ent.3019.foot,sounds01,1000
+20178,ent.3101.foot,,0,1,1,ent.3101.foot,sounds01,1000
+20179,ent.3102.foot,,0,1,1,ent.3102.foot,sounds01,1000
+20180,ent.3105.foot,,0,1,1,ent.3105.foot,sounds01,1000
+20181,ent.3109.foot,,0,1,1,ent.3109.foot,sounds01,1000
+20182,ent.3121.foot,,0,1,1,ent.3121.foot,sounds01,1000
+20183,ent.3123.foot,,0,1,1,ent.3123.foot,sounds01,1000
+20184,ent.3130.foot,,0,1,1,ent.3130.foot,sounds01,1000
+20185,ent.3131.foot,,0,1,1,ent.3131.foot,sounds01,1000
+20186,ent.3135.foot,,0,1,1,ent.3135.foot,sounds01,1000
+20187,ent.3189.foot,,0,1,1,ent.3189.foot,sounds01,1000
+20188,ent.3182.foot,,0,1,1,ent.3182.foot,sounds01,1000
+20189,ent.3191.foot,,0,1,1,ent.3191.foot,sounds01,1000
+20190,ent.3170.foot,,0,1,1,ent.3170.foot,sounds01,1000
+20191,ent.3174.foot,,0,1,1,ent.3174.foot,sounds01,1000
+20192,ent.3178.foot,,0,1,1,ent.3178.foot,sounds01,1000
+20193,ent.3185.foot,,0,1,1,ent.3185.foot,sounds01,1000
+20194,ent.3193.foot,,0,1,1,ent.3193.foot,sounds01,1000
+20195,ent.3197.foot,,0,1,1,ent.3197.foot,sounds01,1000
+20196,ent.3200.foot,,0,1,1,ent.3200.foot,sounds01,1000
+20197,ent.3201.foot,,0,1,1,ent.3201.foot,sounds01,1000
+20198,ent.3202.foot,,0,1,1,ent.3202.foot,sounds01,1000
+20199,ent.3200.foot1,,0,1,1,ent.3200.foot1,sounds01,1000
+20200,ent.3224.seaspiritidle1,,0,1,1,ent.3224.seaspiritidle1,sounds01,1000
+20201,ent.3403.foot,,0,1,1,ent.3403.foot,sounds01,1000
+20202,ent.3885.foot,,0,1,1,ent.3885.foot,sounds01,1000
+20203,ent.3401.foot,,0,1,1,ent.3401.foot,sounds01,1000
+20204,ent.3407.foot,,0,1,1,ent.3407.foot,sounds01,1000
+20205,ent.3400.foot,,0,1,1,ent.3400.foot,sounds01,1000
+20206,ent.3402.foot,,0,1,1,ent.3402.foot,sounds01,1000
+20207,ent.3408.foot,,0,1,1,ent.3408.foot,sounds01,1000
+20208,ent.3409.foot,,0,1,1,ent.3409.foot,sounds01,1000
+20209,ent.3421.foot,,0,1,1,ent.3421.foot,sounds01,1000
+20210,ent.3423.foot,,0,1,1,ent.3423.foot,sounds01,1000
+20211,ent.3424.foot,,0,1,1,ent.3424.foot,sounds01,1000
+20212,ent.3501.foot,,0,1,1,ent.3501.foot,sounds01,1000
+20213,ent.3502.fly,,0,1,1,ent.3502.fly,sounds01,1000
+20214,ent.3505.foot,,0,1,1,ent.3505.foot,sounds01,1000
+20215,ent.3506.foot,,0,1,1,ent.3506.foot,sounds01,1000
+20216,ent.3507.foot,,0,1,1,ent.3507.foot,sounds01,1000
+20217,ent.3508.foot,,0,1,1,ent.3508.foot,sounds01,1000
+20218,ent.3621.foot1,,0,1,1,ent.3621.foot1,sounds01,1000
+20219,ent.3822.foot,,0,1,1,ent.3822.foot,sounds01,1000
+20220,ent.3881.foot,,0,1,1,ent.3881.foot,sounds01,1000
+20221,ent.3883.foot,,0,1,1,ent.3883.foot,sounds01,1000
+20222,ent.3892.foot,,0,1,1,ent.3892.foot,sounds01,1000
+20223,ent.3912.foot,,0,1,1,ent.3912.foot,sounds01,1000
+20224,ent.3914.foot,,0,1,1,ent.3914.foot,sounds01,1000
+20225,ent.3915.foot,,0,1,1,ent.3915.foot,sounds01,1000
+20226,ent.3224.seaspiritattack1,,0,1,1,ent.3224.seaspiritattack1,sounds01,1000
+20227,ent.3626.hit1,,0,1,1,ent.3626.hit1,sounds01,1000
+20228,ent.3623.bubble1,,0,1,1,ent.3623.bubble1,sounds01,1000
+20229,ent.3822.atk,,0,1,5,ent.3822.atk,sounds05,1000
+20230,ent.3824.atk_pincers,,0,1,5,ent.3824.atk_pincers,sounds05,1000
+20231,ent.3826.atk,,0,1,5,ent.3826.atk,sounds05,1000
+20232,ent.3892.attack,,0,1,5,ent.3892.attack,sounds05,1000
+20233,ent.3912.attack,,0,1,5,ent.3912.attack,sounds05,1000
+20234,MP5_Reload,模板枪换弹,1,1,2,item.15000.MP5_Reload,sounds02,1000
+20235,MP5_Reload_E,模板枪打空换弹,1,1,2,item.15000.MP5_Reload_E,sounds02,1000
+20236,MP5_Fire,模板枪开火,1,1,2,item.15000.MP5_Fire,sounds02,1000
+20237,carstart,汽车启动,1,1,2,phy.carstart,sounds02,1000
+20238,MachBoss_Acctack,boss定点打击,0,0,5,ent.3938.MachBoss_Acctack,sounds02,1000
+20239,MachBoss_Acctackpre,boss定点打击蓄力,0,0,5,ent.3938.MachBoss_Acctackpre,sounds02,1000
+20240,MachBoss_Dash1,boss冲刺蓄力,0,0,5,ent.3938.MachBoss_Dash1,sounds02,1000
+20241,MachBoss_Dash2,boss冲刺中,0,0,5,ent.3938.MachBoss_Dash2,sounds02,1000
+20242,MachBoss_Dizz,boss眩晕,0,0,5,ent.3938.MachBoss_Dizz,sounds02,1000
+20243,MachBoss_Head_fire1,boss喷火蓄力,0,0,5,ent.3938.MachBoss_Head_fire1,sounds02,1000
+20244,MachBoss_Head_fire2,boss喷火地上,0,0,5,ent.3938.MachBoss_Head_fire2,sounds02,1000
+20245,MachBoss_Part,boss部位破坏,0,0,5,ent.3938.MachBoss_Part,sounds02,1000
+20246,MachBoss_Shoot1,boss发射蓄力,0,0,5,ent.3938.MachBoss_Shoot1,sounds02,1000
+20247,MachBoss_Shoot2,boss发射,0,0,5,ent.3938.MachBoss_Shoot2,sounds02,1000
+20248,MachBoss_Shoot3,boss发射命中,0,0,5,ent.3938.MachBoss_Shoot3,sounds02,1000
+20249,MachBoss_Zhaohuan1,boss召唤,0,0,5,ent.3938.MachBoss_Zhaohuan1,sounds02,1000
+20250,MachBoss_Zhaohuan2,boss召唤位置,0,0,5,ent.3938.MachBoss_Zhaohuan2,sounds02,1000
+20251,MachEliteMelee_Attack,近战精英攻击,0,0,5,ent.3938.MachEliteMelee_Attack,sounds02,1000
+20252,MachEliteMelee_Catch,近战精英抓人,0,0,5,ent.3938.MachEliteMelee_Catch,sounds02,1000
+20253,MachEliteRanged_Boom,远程精英命中,0,0,5,ent.3938.MachEliteRanged_Boom,sounds02,1000
+20254,MachEliteRanged_Heal1,远程精英治疗自己,0,0,5,ent.3938.MachEliteRanged_Heal1,sounds02,1000
+20255,MachEliteRanged_Heal2,远程精英治疗他人,0,0,5,ent.3938.MachEliteRanged_Heal2,sounds02,1000
+20256,MachEliteRanged_Shoot,远程精英发射,0,0,5,ent.3938.MachEliteRanged_Shoot,sounds02,1000
+20257,MachSmall_Attack,近战小怪攻击,0,0,5,ent.3938.MachSmall_Attack,sounds02,1000
+20258,MachSmallRanged_Hit,远程小怪命中,0,0,5,ent.3938.MachSmallRanged_Hit,sounds02,1000
+20259,MachSmallRanged_Shoot,远程小怪发射,0,0,5,ent.3938.MachSmallRanged_Shoot,sounds02,1000
+20260,die,阵亡-沙漠年轻男村民,1,1,3,ent.3204.die,sounds03,1000
+20261,foot,脚步-沙漠年轻男村民,1,1,1,ent.3204.foot,sounds01,600
+20262,hit,受伤-沙漠年轻男村民,1,1,3,ent.3204.fit,sounds03,700
+20263,idle1,待机-沙漠年轻男村民,1,1,4,ent.3204.idle1,sounds04,800
+20264,die,阵亡-沙漠中年男村民,1,1,3,ent.3205.die,sounds03,1000
+20265,foot,脚步-沙漠中年男村民,1,1,1,ent.3205.foot,sounds01,600
+20266,hit,受伤-沙漠中年男村民,1,1,3,ent.3205.fit,sounds03,700
+20267,idle1,待机-沙漠中年男村民,1,1,4,ent.3205.idle1,sounds04,800
+20268,die,阵亡-沙漠年轻女村民,1,1,3,ent.3206.die,sounds03,1000
+20269,foot,脚步-沙漠年轻女村民,1,1,1,ent.3206.foot,sounds01,600
+20270,hit,受伤-沙漠年轻女村民,1,1,3,ent.3206.fit,sounds03,700
+20271,idle1,待机-沙漠年轻女村民,1,1,4,ent.3206.idle1,sounds04,800
+20272,runeengrave,铭刻完成音效,1,1,4,misc.runeengrave,sounds04,1000
+20273,buff_countdown,Buff倒计时,1,1,5,buff.buff_countdown,sounds05,3000
+20274,buff_explosion,Buff爆炸,1,1,5,buff.buff_explosion,sounds05,2533
+20275,buff_starcloud,Buff星云,1,1,5,buff.buff_starcloud,sounds05,1065
+20276,fireSmall,,0,1,5,misc.fireSmall,sounds05,1295
+20277,magicBullet,,0,1,5,misc.magicBullet,sounds05,1727
+20278,magicCharge,,0,1,5,misc.magicCharge,sounds05,4000
+20279,magicBullet_hit,,0,1,5,misc.magicBullet_hit,sounds05,2482
+20280,buff_stagFocus,,0,1,3,buff.buff_stagFocus,sounds03,10000
+20281,Bow_Draw_1,初级符能弓拉弓,1,1,5,newAtkSys.Bow_Draw_1,sounds05,1000
+20282,Bow_Draw_2,中级符能弓拉弓,1,1,5,newAtkSys.Bow_Draw_2,sounds05,1000
+20283,Bow_Draw_3,高级符能弓拉弓,1,1,5,newAtkSys.Bow_Draw_3,sounds05,1000
+20284,Bow_UP,符能弓蓄满,1,1,5,newAtkSys.Bow_UP,sounds05,2000
+20285,Bow_Fire_1,初级符能弓发射,1,1,5,newAtkSys.Bow_Fire_1,sounds05,1000
+20286,Bow_Fire_2,中级符能弓发射,1,1,5,newAtkSys.Bow_Fire_2,sounds05,1000
+20287,Bow_Fire_3,高级符能弓发射,1,1,5,newAtkSys.Bow_Fire_3,sounds05,1000
+20288,Arrow,分裂/追踪箭击中,1,1,5,newAtkSys.Arrow,sounds05,2000
+20289,Arrow_Freeze,冰冻箭击中,1,1,5,newAtkSys.Arrow_Freeze,sounds05,2000
+20290,Arrow_Blaze,火焰箭击中,1,1,5,newAtkSys.Arrow_Blaze,sounds05,2000
+20291,Arrow_Bolt,雷电箭击中,1,1,5,newAtkSys.Arrow_Bolt,sounds05,2000
+20292,Arrow_Magic,魔弓箭击中,1,1,5,newAtkSys.Arrow_Magic,sounds05,2000
+20293,Fireball_Fire,火球术 施法,1,1,5,newAtkSys.Fireball_Fire,sounds05,1000
+20294,Fireball_Hit,火球术 击中,1,1,5,newAtkSys.Fireball_Hit,sounds05,2000
+20295,Frozen_Orb_Fire,冰球术 施法,1,1,5,newAtkSys.Frozen_Orb_Fire,sounds05,1000
+20296,Frozen_Orb_Hit,冰球术 击中,1,1,5,newAtkSys.Frozen_Orb_Hit,sounds05,1000
+20297,Lightning_Orb_Fire,雷球术 施法,1,1,5,newAtkSys.Lightning_Orb_Fire,sounds05,2000
+20298,Lightning_Orb_Hit,雷球术 击中,1,1,5,newAtkSys.Lightning_Orb_Hit,sounds05,2000
+20299,Stone_Wall_Draw,石墙术 施法,1,1,5,newAtkSys.Stone_Wall_Draw,sounds05,2500
+20300,Stone_Wall_UP,石墙术 蓄满,1,1,5,newAtkSys.Stone_Wall_UP,sounds05,1000
+20301,Stone_Wall_Fire,石墙术 释放,1,1,5,newAtkSys.Stone_Wall_Fire,sounds05,1500
+20302,Blizzard_Fire,暴风雪 施法,1,1,5,newAtkSys.Blizzard_Fire,sounds05,2333
+20303,Blizzard_Hit,暴风雪 释放,1,1,5,newAtkSys.Blizzard_Hit,sounds05,7000
+20304,Homing_Missile_Fire,追踪飞弹 施法,1,1,5,newAtkSys.Homing_Missile_Fire,sounds05,1500
+20305,Homing_Missile_Hit,追踪飞弹 击中,1,1,5,newAtkSys.Homing_Missile_Hit,sounds05,1000
+20306,Chain_Lightning_Fire,连锁闪电 施法,1,1,5,newAtkSys.Chain_Lightning_Fire,sounds05,1000
+20307,Chain_Lightning_Hit,连锁闪电 击中,1,1,5,newAtkSys.Chain_Lightning_Hit,sounds05,1000
+20308,Cute_Beast_Fire,萌兽冲击 施法,1,1,5,newAtkSys.Cute_Beast_Fire,sounds05,1500
+20309,Flame_Dragon_Fire,龙息术 施法,1,1,5,newAtkSys.Flame_Dragon_Fire,sounds05,2000
+20310,Flame_Dragon_DoT,龙息术 华莱士喷射,1,1,5,newAtkSys.Flame_Dragon_DoT,sounds05,3000
+20311,Nature_Orb_Draw,自然之球 施法,1,1,5,newAtkSys.Nature_Orb_Draw,sounds05,1314
+20312,Nature_Orb_Hit,自然之球 击中,1,1,5,newAtkSys.Nature_Orb_Hit,sounds05,1000
+20313,MG_Charge,符能机枪 施法,1,1,5,newAtkSys.MG_Charge,sounds05,3000
+20314,MG_Fire,符能机枪 发射,1,1,5,newAtkSys.MG_Fire,sounds05,1300
+20315,MG_Hit,符能机枪 击中,1,1,5,newAtkSys.MG_Hit,sounds05,1500
+20316,Staff_Fire,法杖发射,1,1,5,newAtkSys.Staff_Fire,sounds05,1000
+20317,ZeroG_Magic,卷轴 低重力术,1,1,5,newAtkSys.ZeroG_Magic,sounds05,2000
+20318,Fairy_Magic,卷轴 草精灵术,1,1,5,newAtkSys.Fairy_Magic,sounds05,666
+20319,Switch_Magic,卷轴 互换位置术,1,1,5,newAtkSys.Switch_Magic,sounds05,2000
+20320,Launch_Magic,卷轴 击飞术,1,1,5,newAtkSys.Launch_Magic,sounds05,2000
+20321,Fireworks_Magic,卷轴 喷花烟花术,1,1,5,newAtkSys.Fireworks_Magic,sounds05,2000
+20322,Rush_Ready,冲锋 起手蹬地,1,1,5,newAtkSys.Rush_Ready,sounds05,1000
+20323,Rush_B,冲锋 突进飞行,1,1,5,newAtkSys.Rush_B,sounds05,1000
+20324,Claymore_Fire,蓄力大剑 挥砍释放,1,1,5,newAtkSys.Claymore_Fire,sounds05,1000
+20325,Whirlwind_Fire,旋风斩 起手开转,1,1,5,newAtkSys.Whirlwind_Fire,sounds05,500
+20326,Whirlwind_DoT,旋风斩 盖伦转转转,1,1,5,newAtkSys.Whirlwind_DoT,sounds05,3000
+20327,Shadow_Smoke,暗影步 黑雾,1,1,5,newAtkSys.Shadow_Smoke,sounds05,1000
+20328,Shadow_Blink,暗影步 穿梭,1,1,5,newAtkSys.Shadow_Blink,sounds05,500
+20329,Blood_Fire,血浪 起手,1,1,5,newAtkSys.Blood_Fire,sounds05,1000
+20330,Blood_Shockwave,血浪 刀波,1,1,5,newAtkSys.Blood_Shockwave,sounds05,1000
+20331,Cute_Beast_Hit,萌兽冲击 击中,1,1,5,newAtkSys.Cute_Beast_Hit,sounds05,1000
+20332,Transform_Magic,卷轴 方块转化,1,1,5,newAtkSys.Transform_Magic,sounds05,1000
+20333,com_eat,通用进食,1,1,2,ent.3364.com_eat,sounds02,3000
+20334,elder_attack,代理村长 攻击,1,1,2,ent.3364.elder_attack,sounds02,1000
+20335,elder_cozy,代理村长 舒服,1,1,2,ent.3364.elder_cozy,sounds02,1000
+20336,elder_die,代理村长 死亡,1,1,3,ent.3364.elder_die,sounds03,1000
+20337,elder_goofy,代理村长 搞怪,1,1,2,ent.3364.elder_goofy,sounds02,1000
+20338,elder_haha,代理村长 大笑,1,1,2,ent.3364.elder_haha,sounds02,1000
+20339,elder_hit,代理村长 受击,1,1,3,ent.3364.elder_hit,sounds03,1000
+20340,elder_like,代理村长 喜欢,1,1,2,ent.3364.elder_like,sounds02,1000
+20341,elder_reject,代理村长 拒绝,1,1,2,ent.3364.elder_reject,sounds02,1000
+20342,elder_tell,代理村长 讲述,1,1,2,ent.3364.elder_tell,sounds02,1000
+20343,elder_weep,代理村长 委屈,1,1,2,ent.3364.elder_weep,sounds02,3000
+20344,magic_heavy,法术强力攻击,1,1,5,ent.3364.magic_heavy,sounds05,2333
+20345,magic_inspect,法术检视,1,1,5,ent.3364.magic_inspect,sounds05,2000
+20346,dullshroom_foot,呆呆菇 脚步,1,1,1,ent.3339.dullshroom_foot,sounds01,666
+20347,dullshroom_hit,呆呆菇 受击,1,1,3,ent.3339.dullshroom_hit,sounds03,666
+20348,dullshroom_idle,呆呆菇 待机,1,1,4,ent.3339.dullshroom_idle,sounds04,666
+20349,dullshroom_sneeze,呆呆菇 颤动,1,1,2,ent.3339.dullshroom_sneeze,sounds02,666
+20350,dullshroom_snort,呆呆菇 哈气,1,1,2,ent.3339.dullshroom_snort,sounds02,666
+20351,unicorn_attack,独角兽 攻击,1,1,2,ent.3347.unicorn_attack,sounds02,888
+20352,unicorn_chime,独角兽 轻鸣,1,1,2,ent.3347.unicorn_chime,sounds02,2000
+20353,unicorn_die,独角兽 死亡,1,1,3,ent.3347.unicorn_die,sounds03,1000
+20354,unicorn_foot,独角兽 脚步,1,1,1,ent.3347.unicorn_foot,sounds01,2000
+20355,unicorn_hit,独角兽 受击,1,1,3,ent.3347.unicorn_hit,sounds03,1000
+20356,unicorn_idle,独角兽 待机,1,1,4,ent.3347.unicorn_idle,sounds04,666
+20357,unicorn_jump,独角兽 魔法跳跃,1,1,2,ent.3347.unicorn_jump,sounds02,1000
+20358,unicorn_snort,独角兽 哈气,1,1,2,ent.3347.unicorn_snort,sounds02,1000
+20359,unicorn_step_heavy,独角兽 猛踏地面,1,1,2,ent.3347.unicorn_step_heavy,sounds02,2000
+20360,unicorn_step_light,独角兽 轻踏地面,1,1,2,ent.3347.unicorn_step_light,sounds02,2000
+20361,pixie_curious,精灵 好奇,1,1,2,ent.3346.pixie_curious,sounds02,666
+20362,pixie_die,精灵 死亡,1,1,3,ent.3346.pixie_die,sounds03,666
+20363,pixie_fly,精灵 飞行,1,1,2,ent.3346.pixie_fly,sounds02,1500
+20364,pixie_foot,精灵 脚步,1,1,1,ent.3346.pixie_foot,sounds01,1000
+20365,pixie_hit,精灵 受击,1,1,3,ent.3346.pixie_hit,sounds03,1000
+20366,pixie_playdie,精灵 装死/待机,1,1,2,ent.3346.pixie_playdie,sounds02,1000
+20367,pixie_snort,精灵 哈气,1,1,2,ent.3346.pixie_snort,sounds02,1000
+20368,slime_attack,虚空凝胶怪 攻击,1,1,2,ent.3341.slime_attack,sounds02,1000
+20369,slime_bow,凝胶怪 聚爆,1,1,2,ent.3341.slime_bow,sounds02,1500
+20370,slime_breed,凝胶怪 分裂,1,1,2,ent.3341.slime_breed,sounds02,3000
+20371,slime_die,凝胶怪 死亡,1,1,3,ent.3341.slime_die,sounds03,1000
+20372,slime_foot,凝胶怪 脚步,1,1,1,ent.3341.slime_foot,sounds01,1000
+20373,slime_hit,凝胶怪 受击,1,1,3,ent.3341.slime_hit,sounds03,1000
+20374,slime_idle,凝胶怪 待机,1,1,4,ent.3341.slime_idle,sounds04,6000
+20375,slime_Q,凝胶怪 Q弹,1,1,2,ent.3341.slime_Q,sounds02,3000
+20376,slime_snort,凝胶怪 哈气,1,1,2,ent.3341.slime_snort,sounds02,1000
+20377,frog_die,奇幻蛙 死亡,1,1,3,ent.3340.frog_die,sounds03,1000
+20378,frog_foot,奇幻蛙 脚步,1,1,1,ent.3340.frog_foot,sounds01,1000
+20379,frog_gaga,奇幻蛙 呱呱叫,1,1,2,ent.3340.frog_gaga,sounds02,1000
+20380,frog_hit,奇幻蛙 受击,1,1,3,ent.3340.frog_hit,sounds03,1000
+20381,frog_idle,奇幻蛙 待机,1,1,4,ent.3340.frog_idle,sounds04,1000
+20382,frog_snort,奇幻蛙 哈气,1,1,2,ent.3340.frog_snort,sounds02,1000
+20383,starrypig_die,星斑野猪 死亡,1,1,3,ent.3342.starrypig_die,sounds03,1000
+20384,starrypig_foot,星斑野猪 脚步,1,1,1,ent.3342.starrypig_foot,sounds01,1000
+20385,starrypig_hit,星斑野猪 受击,1,1,3,ent.3342.starrypig_hit,sounds03,1000
+20386,starrypig_idle,星斑野猪 待机,1,1,4,ent.3342.starrypig_idle,sounds04,1500
+20387,starrypig_snort,星斑野猪 哈气,1,1,2,ent.3342.starrypig_snort,sounds02,3000
+20388,starrypig_suck,星斑野猪 暴风吸入,1,1,2,ent.3342.starrypig_suck,sounds02,1500
+20389,owl_attack,夜鸮 攻击,1,1,2,ent.3344.owl_attack,sounds02,1000
+20390,owl_die,夜鸮 死亡,1,1,3,ent.3344.owl_die,sounds03,1000
+20391,owl_foot,夜鸮 脚步,1,1,1,ent.3344.owl_foot,sounds01,500
+20392,owl_hit,夜鸮 受击,1,1,3,ent.3344.owl_hit,sounds03,500
+20393,owl_idle,夜鸮 待机,1,1,4,ent.3344.owl_idle,sounds04,2000
+20394,owl_snort,夜鸮 哈气,1,1,2,ent.3344.owl_snort,sounds02,2000
+20395,ranger_die,游侠猫 死亡,1,1,3,ent.3345.ranger_die,sounds03,1000
+20396,ranger_hit,游侠猫 受击,1,1,3,ent.3345.ranger_hit,sounds03,1000
+20397,ranger_idle,游侠猫 待机,1,1,4,ent.3345.ranger_idle,sounds04,1500
+20398,com_fall,通用 摔倒,1,1,2,ent.3326.com_fall,sounds02,1000
+20399,com_fart,通用 放屁,1,1,2,ent.3326.com_fart,sounds02,1000
+20400,dogman_cozy,狗人村民 舒服,1,1,2,ent.3326.dogman_cozy,sounds02,1500
+20401,dogman_goofy,狗人村民 搞怪,1,1,2,ent.3326.dogman_goofy,sounds02,1500
+20402,dogman_haha,狗人村民 大笑,1,1,2,ent.3326.dogman_haha,sounds02,1500
+20403,dogman_like,狗人村民 狗狗开心,1,1,2,ent.3326.dogman_like,sounds02,1000
+20404,dogman_no,狗人村民 狗狗拒绝,1,1,2,ent.3326.dogman_no,sounds02,1000
+20405,dogman_tell,狗人村民 讲述,1,1,2,ent.3326.dogman_tell,sounds02,1000
+20406,dogman_weep,狗人村民 委屈,1,1,2,ent.3326.dogman_weep,sounds02,1000
+20407,dogman_die,狗人 死亡,1,1,3,ent.3326.dogman_die,sounds03,1000
+20408,dogman_hit,狗人 受击,1,1,3,ent.3326.dogman_hit,sounds03,1000
+20409,dogman_idle,狗人 待机,1,1,4,ent.3326.dogman_idle,sounds04,1000
+20410,catman_cast,钓鱼猫猫人 甩杆,1,1,2,ent.3336.catman_cast,sounds02,1000
+20411,catman_cozy,猫人村民 舒服,1,1,2,ent.3327.catman_cozy,sounds02,1000
+20412,catman_goofy,猫人村民 搞怪,1,1,2,ent.3327.catman_goofy,sounds02,1000
+20413,catman_haha,猫人村民 大笑,1,1,2,ent.3327.catman_haha,sounds02,1500
+20414,catman_like,猫人村民 猫猫开心,1,1,2,ent.3327.catman_like,sounds02,1000
+20415,catman_no,猫人村民 猫猫拒绝,1,1,2,ent.3327.catman_no,sounds02,1000
+20416,catman_reel,钓鱼猫猫人 收杆,1,1,2,ent.3336.catman_reel,sounds02,1000
+20417,catman_tell,猫人村民 讲述,1,1,2,ent.3327.catman_tell,sounds02,1000
+20418,catman_weep,猫人村民 委屈,1,1,2,ent.3327.catman_weep,sounds02,1000
+20419,music_play01,演奏家 演奏01,1,1,7,ent.3337.music_play01,sounds07,14000
+20420,music_play02,演奏家 演奏02,1,1,7,ent.3337.music_play02,sounds07,14000
+20421,catman_die,猫人 死亡,1,1,3,ent.3327.catman_die,sounds03,1000
+20422,catman_hit,猫人 受击,1,1,3,ent.3327.catman_hit,sounds03,1000
+20423,catman_idle,猫人 待机,1,1,4,ent.3327.catman_idle,sounds04,1000
+20424,pigman_cough,猪人长老 咳嗽,1,1,2,ent.3328.pigman_cough,sounds02,1000
+20425,pigman_drink,魔法厨师 品鉴,1,1,2,ent.3333.pigman_drink,sounds02,1000
+20426,pigman_cozy,猪人村民 舒服,1,1,2,ent.3328.pigman_cozy,sounds02,1000
+20427,pigman_goofy,猪人村民 搞怪,1,1,2,ent.3328.pigman_goofy,sounds02,1000
+20428,pigman_haha,猪人村民 大笑,1,1,2,ent.3328.pigman_haha,sounds02,2333
+20429,pigman_like,猪人村民 猪猪开心,1,1,2,ent.3328.pigman_like,sounds02,2000
+20430,pigman_no,猪人村民 猪猪拒绝,1,1,2,ent.3328.pigman_no,sounds02,1000
+20431,pigman_tell,猪人村民 讲述,1,1,2,ent.3328.pigman_tell,sounds02,2000
+20432,pigman_weep,猪人村民 委屈,1,1,2,ent.3328.pigman_weep,sounds02,12000
+20433,pigman_die,猪人 死亡,1,1,3,ent.3328.pigman_die,sounds03,1000
+20434,pigman_hit,猪人 受击,1,1,3,ent.3328.pigman_hit,sounds03,1000
+20435,pigman_idle,猪人 待机,1,1,4,ent.3328.pigman_idle,sounds04,1000
+20436,frogman_die,蛙人 死亡,1,1,3,ent.3351.frogman_die,sounds03,1000
+20437,frogman_hit,蛙人 受击,1,1,3,ent.3351.frogman_hit,sounds03,1000
+20438,frogman_idle,蛙人 待机,1,1,4,ent.3351.frogman_idle,sounds04,1000
+20439,orc_foot,兽人通用 脚步,1,1,1,ent.3364.orc_foot,sounds01,500
+20440,orc_melee,兽人通用 近战攻击,1,1,2,ent.3329.orc_melee,sounds02,1000
+20441,orc_ranged,兽人通用 远程攻击,1,1,2,ent.3331.orc_ranged,sounds02,1000
+20442,golem_attack,晶石巨像 攻击,1,1,2,ent.3362.golem_attack,sounds02,1000
+20443,golem_die,晶石巨像 死亡,1,1,3,ent.3362.golem_die,sounds03,1000
+20444,golem_foot,晶石巨像 脚步,1,1,1,ent.3362.golem_foot,sounds01,666
+20445,golem_hit,晶石巨像 受击,1,1,3,ent.3362.golem_hit,sounds03,1000
+20446,golem_idle,晶石巨像 待机,1,1,4,ent.3362.golem_idle,sounds04,2000
+20447,golem_pulse,晶石巨像 脉冲,1,1,2,ent.3362.golem_pulse,sounds02,3000
+20448,golem_smash,晶石巨像 猛砸,1,1,2,ent.3362.golem_smash,sounds02,2000
+20449,smallgolem_attack,晶石小怪 攻击,1,1,2,ent.3361.smallgolem_attack,sounds02,1000
+20450,smallgolem_die,晶石小怪 死亡,1,1,3,ent.3361.smallgolem_die,sounds03,500
+20451,smallgolem_foot,晶石小怪 脚步,1,1,1,ent.3361.smallgolem_foot,sounds01,1000
+20452,smallgolem_hit,晶石小怪 受击,1,1,3,ent.3361.smallgolem_hit,sounds03,500
+20453,maneater_attack,食人花 攻击01,1,1,2,ent.3350.maneater_attack,sounds02,2000
+20454,maneater_attack2,食人花 攻击02(废弃),1,1,2,ent.maneater_attack2,sounds02,2000
+20455,maneater_bloom,食人花 开花,1,1,2,ent.3350.maneater_bloom,sounds02,2000
+20456,maneater_die,食人花 死亡,1,1,3,ent.3350.maneater_die,sounds03,1000
+20457,maneater_foot,食人花 脚步,1,1,1,ent.3350.maneater_foot,sounds01,600
+20458,maneater_hit,食人花 受击,1,1,3,ent.3350.maneater_hit,sounds03,600
+20459,maneater_idle,食人花 待机,1,1,4,ent.3350.maneater_idle,sounds04,1000
+20460,shroom_man_clap,蘑菇村民 拍手,1,1,2,ent.3325.shroom_man_clap,sounds02,500
+20461,shroom_man_die,蘑菇村民 死亡,1,1,3,ent.3325.shroom_man_die,sounds03,1000
+20462,shroom_man_foot,蘑菇村民 脚步,1,1,1,ent.3325.shroom_man_foot,sounds01,1000
+20463,shroom_man_happy,蘑菇村民 开心,1,1,2,ent.3325.shroom_man_happy,sounds02,1500
+20464,shroom_man_hit,蘑菇村民 受击,1,1,3,ent.3325.shroom_man_hit,sounds03,1000
+20465,shroom_man_playdie,蘑菇村民 装死,1,1,2,ent.3325.shroom_man_playdie,sounds02,500
+20466,shroom_man_Q,蘑菇村民 Q弹,1,1,2,ent.3325.shroom_man_Q,sounds02,1000
+20467,shroom_man_speak,蘑菇村民 说话,1,1,2,ent.3325.shroom_man_speak,sounds02,6000
+20468,250Music,二百舞音乐,1,1,7,ent.3325.250Music,sounds07,8000
+20469,happy_music,欢快演奏,1,1,7,ent.3323.happy_music,sounds07,14000
+20470,lyrical_music,治愈演奏,1,1,7,ent.3323.lyrical_music,sounds07,14000
+20471,sos_music,危险警报,1,1,7,ent.3323.sos_music,sounds07,3000
+20472,shroom_man_attack,蘑菇战士 攻击,1,1,2,ent.3322.shroom_man_attack,sounds02,1000
+20473,shroom_man_cast,蘑菇法师 施法,1,1,2,ent.3321.shroom_man_cast,sounds02,2000
+20474,shroom_man_envy,蘑菇战士 羡慕,1,1,2,ent.3322.shroom_man_envy,sounds02,1000
+20475,shroom_man_hum,蘑菇舞者 哼唱,1,1,2,ent.3324.shroom_man_hum,sounds02,6000
+20476,shroom_man_mutter,蘑菇舞者 自言自语,1,1,2,ent.3324.shroom_man_mutter,sounds02,1000
+20477,shroom_man_Pay,蘑菇商人 收款,1,1,8,ent.3320.shroom_man_Pay,sounds08,1500
+20478,shroom_man_scare,蘑菇商人 惊吓,1,1,2,ent.3320.shroom_man_scare,sounds02,1000
+20479,shroom_man_thrust,蘑菇战士 戳刺,1,1,2,ent.3322.shroom_man_thrust,sounds02,2000
+20480,shroom_man_tidy,蘑菇商人 整理,1,1,2,ent.3320.shroom_man_tidy,sounds02,4000
+20481,com_zzz,通用 睡觉,1,1,2,ent.3364.com_zzz,sounds02,4000
+20482,shroom_king_die,蘑菇国王 死亡,1,1,3,ent.3319.shroom_king_die,sounds03,1000
+20483,shroom_king_happy,蘑菇国王 开心,1,1,2,ent.3319.shroom_king_happy,sounds02,2000
+20484,shroom_king_hello,蘑菇国王 打招呼,1,1,2,ent.3319.shroom_king_hello,sounds02,1000
+20485,shroom_king_hit,蘑菇国王 受击,1,1,3,ent.3319.shroom_king_hit,sounds03,1000
+20486,shroom_king_scare,蘑菇国王 惊吓,1,1,2,ent.3319.shroom_king_scare,sounds02,1000
+20487,shroom_king_roar,虚空蘑菇国王 咆哮,1,1,2,ent.3319.shroom_king_roar,sounds02,2000
+20488,Skill_StarfallWand_ArrowOrb,箭形法球,1,1,5,newAtkSys.Skill_StarfallWand_ArrowOrb,sounds05,1500
+20489,Skill_OldChief_WhiteOrb,白色法球,1,1,5,newAtkSys.Skill_OldChief_WhiteOrb,sounds05,500
+20490,Skill_OldChief_FlameCircle01,烈焰法阵 释放,1,1,5,newAtkSys.Skill_OldChief_FlameCircle01,sounds05,1500
+20491,Skill_OldChief_FlameCircle02,烈焰法阵 持续,1,1,5,newAtkSys.Skill_OldChief_FlameCircle02,sounds05,3000
+20492,Skill_MushroomMage_Summon,召唤术,1,1,5,newAtkSys.Skill_MushroomMage_Summon,sounds05,1000
+20493,Skill_MushroomKing_SporeShot,孢子投射,1,1,5,newAtkSys.Skill_MushroomKing_SporeShot,sounds05,1000
+20494,Skill_MushroomKing_SummonMushroom,召唤菇人,1,1,5,newAtkSys.Skill_MushroomKing_SummonMushroom,sounds05,1000
+20495,Skill_MushroomKing_BurstMushroom01,爆裂菇 生成,1,1,5,newAtkSys.Skill_MushroomKing_BurstMushroom01,sounds05,1000
+20496,Skill_MushroomKing_BurstMushroom02,爆裂菇 爆炸,1,1,5,newAtkSys.Skill_MushroomKing_BurstMushroom02,sounds05,1000
+20497,Skill_CarnivorousPlant_AcidBubble02,酸液炮 烟雾,1,1,5,newAtkSys.Skill_CarnivorousPlant_AcidBubble02,sounds05,1000
+20498,Skill_Ranger_ShootArrow,射箭,1,1,5,newAtkSys.Skill_Ranger_ShootArrow,sounds05,500
+20499,Skill_StarlightSword_PurpleSlash,紫色剑气,1,1,5,newAtkSys.Skill_StarlightSword_PurpleSlash,sounds05,1500
+20500,Skill_StarlightSword_SwordSlash,剑气斩,1,1,5,newAtkSys.Skill_StarlightSword_SwordSlash,sounds05,500
+20501,Skill_StarlightSword_GroundSplit,裂地斩,1,1,5,newAtkSys.Skill_StarlightSword_GroundSplit,sounds05,2000
+20502,Skill_StarlightSword_Thrust,突刺,1,1,5,newAtkSys.Skill_StarlightSword_Thrust,sounds05,1000
+20503,Skill_StarlightSword_JumpSmash01,跳劈 跳跃,1,1,5,newAtkSys.Skill_StarlightSword_JumpSmash01,sounds05,1000
+20504,Skill_StarlightSword_JumpSmash02,跳跃 劈砍,1,1,5,newAtkSys.Skill_StarlightSword_JumpSmash02,sounds05,1000
+20505,Skill_OldChief_FrostCircle,冰霜法阵,1,1,5,newAtkSys.Skill_OldChief_FrostCircle,sounds05,5000
+20506,Skill_MushroomKing_VoidPull01,虚空吸附 召唤,1,1,5,newAtkSys.Skill_MushroomKing_VoidPull01,sounds05,3000
+20507,Skill_MushroomKing_VoidPull02,虚空吸附 吸附,1,1,5,newAtkSys.Skill_MushroomKing_VoidPull02,sounds05,4000
+20508,Skill_StarlightSword_Shockwave,冲击波,1,1,5,newAtkSys.Skill_StarlightSword_Shockwave,sounds05,1000
+20509,Skill_BridgeScroll_BridgeBuilder01,搭桥术 搭建,1,1,5,newAtkSys.Skill_BridgeScroll_BridgeBuilder01,sounds05,3000
+20510,Skill_BridgeScroll_BridgeBuilder02,搭桥术 坍塌,1,1,5,newAtkSys.Skill_BridgeScroll_BridgeBuilder02,sounds05,1500
+20511,Skill_SpaceScroll_SpaceShift01,空间术 发射,1,1,5,newAtkSys.Skill_SpaceScroll_SpaceShift01,sounds05,1500
+20512,Skill_SpaceScroll_SpaceShift02,空间术 传送,1,1,5,newAtkSys.Skill_SpaceScroll_SpaceShift02,sounds05,1500
+20513,cyclops_appear,独眼 登场怒吼,1,1,5,newAtkSys.cyclops_appear,sounds05,4000
+20514,cyclops_bolt_hit,独眼 飞弹命中,1,1,5,newAtkSys.cyclops_bolt_hit,sounds05,1500
+20515,cyclops_bolt_burn,独眼 飞弹燃烧,1,1,5,newAtkSys.cyclops_bolt_burn,sounds05,2000
+20516,cyclops_bolt_boom,独眼 飞弹爆炸,1,1,5,newAtkSys.cyclops_bolt_boom,sounds05,2000
+20517,cyclops_laser_charge,独眼 激光蓄力,1,1,5,newAtkSys.cyclops_laser_charge,sounds05,2000
+20518,cyclops_laser_fire,独眼 激光发射,1,1,5,newAtkSys.cyclops_laser_fire,sounds05,3300
+20519,cyclops_blackhole,独眼 黑洞,1,1,5,newAtkSys.cyclops_blackhole,sounds05,4000
+20520,cyclops_minion_hit,独眼 小弟命中,1,1,5,newAtkSys.cyclops_minion_hit,sounds05,1300
+20521,cyclops_minion_escape,独眼 小弟挣脱,1,1,5,newAtkSys.cyclops_minion_escape,sounds05,1500
+20522,cyclops_bullet,独眼 默认投掷物飞行,1,1,5,newAtkSys.cyclops_bullet,sounds05,1400
+20523,witch_void_orb_fire,女巫 虚空法球 发射,1,1,5,newAtkSys.witch_void_orb_fire,sounds05,1400
+20524,witch_long_orb_fire,女巫 远距离法球 发射,1,1,5,newAtkSys.witch_long_orb_fire,sounds05,2000
+20525,witch_fullscreen_orb_fire,女巫 全屏法球 发射,1,1,5,newAtkSys.witch_fullscreen_orb_fire,sounds05,1300
+20526,witch_fullscreen_orb_hit,女巫 全屏法球 命中,1,1,5,newAtkSys.witch_fullscreen_orb_hit,sounds05,2000
+20527,witch_geo_blast_up,女巫 延迟炸弹 蓄力,1,1,5,newAtkSys.witch_geo_blast_up,sounds05,2000
+20528,witch_geo_blast_boom,女巫 延迟炸弹 爆炸,1,1,5,newAtkSys.witch_geo_blast_boom,sounds05,1000
+20529,witch_orbit_shot,女巫 环绕式 发射,1,1,5,newAtkSys.witch_orbit_shot,sounds05,1000
+20530,witch_whirl_slash,女巫 近身横扫,1,1,5,newAtkSys.witch_whirl_slash,sounds05,666
+20531,witch_void_knockback,女巫 虚空震退,1,1,5,newAtkSys.witch_void_knockback,sounds05,1314
+20532,witch_lightning_dash,女巫 紫电冲刺,1,1,5,newAtkSys.witch_lightning_dash,sounds05,1000
+20533,1music_shroomDo,音乐菇1,1,1,7,misc.1music_shroomDo,sounds07,500
+20534,2music_shroomRe,音乐菇2,1,1,7,misc.2music_shroomRe,sounds07,500
+20535,3music_shroomMi,音乐菇3,1,1,7,misc.3music_shroomMi,sounds07,500
+20536,4music_shroomFa,音乐菇4,1,1,7,misc.4music_shroomFa,sounds07,500
+20537,5music_shroomSol,音乐菇5,1,1,7,misc.5music_shroomSol,sounds07,500
+20538,6music_shroomLa,音乐菇6,1,1,7,misc.6music_shroomLa,sounds07,500
+20539,7music_shroomXi,音乐菇7,1,1,7,misc.7music_shroomXi,sounds07,500
+20540,8music_shroomDo,音乐菇8,1,1,7,misc.8music_shroomDo,sounds07,500
+20541,cyclops_hit,独眼 受击,1,1,3,ent.3944.cyclops_hit,sounds03,1000
+20542,cyclops_die,独眼 死亡,1,1,3,ent.3944.cyclops_die,sounds03,1000
+20543,cyclops_minion_die,小独眼 死亡,1,1,3,ent.3945.cyclops_minion_die,sounds03,1000

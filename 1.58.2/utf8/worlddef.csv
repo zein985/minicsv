@@ -1,0 +1,6 @@
+星球ID,星球名称,预制文件名,重力,重置时间（单位秒，-1不重置）,星站启用,星站解锁类型,星站解锁道具,星站解锁提示,星站传送消耗类型,星站传送星星消耗,星站传送道具,星站传送道具数量,星球图标,星球描述
+WorldID,WorldName,PrefabName,Gravity,ResetTime,StationUseMgmt,StationUnlock,StationUnlockItem,StationUnlockHint,StationTeleportCost,StationTeleportCostStar,StationTeleportCostItem,StationTeleportCostItemNum,WorldIcon,WorldDesc
+0,迷拉星,,1,-1,1,0,-1,,1,1,-1,-1,ui/mobile/texture0/bigtex/pic_star_earth.png,80008
+1,烈焰星,,1,-1,1,0,-1,,1,5,-1,-1,ui/mobile/texture0/bigtex/pic_star_fire.png,80009
+2,萌眼星,,0.4,-1,1,1,588,,1,5,-1,-1,ui/mobile/texture0/bigtex/pic_star_eyes.png,80010
+3,星尘之境,3,1,-1,1,0,-1,,-1,-1,-1,-1,ui/mobile/texture0/bigtex/pic_star_stardust.png,

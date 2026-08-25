@@ -1,0 +1,7 @@
+组件ID,组件名字,备注,组件图标,组件所属类型（持续效果 1001 ， 瞬时效果1002）,组件一级分类(1 属性， 2 触发， 3 其它）,组件LUA文件,排序ID,组件编辑类型（1=官方内部触发器，2=官方内部脚本，3=官方外部脚本 ，4=官方外部触发器，101=开发者脚本，102，开发者触发器，103=开发者lua）,选择器开关（0=关闭 1=打开   仅影响选择器，实际运行时是可以动态添加）,组件支持运行的环境：第一位代表编辑模式，第二位代表运行模式（创造、冒险都属于运行模式）
+ID,NameId,Note,Icon,Filter,FirstType,ScriptPath,SortId,Source,SelectorSwitch,Environment
+76000001,7600001,直线,icons_component/effect,1003,2,MtLine,0,2,1,
+76000002,7600002,抛物线,icons_component/effect,1003,2,MtParabola,0,2,1,
+76000003,7600003,环绕,icons_component/effect,1003,2,MtAround,0,2,1,
+76000004,7600004,跟踪,icons_component/effect,1003,2,MtTrack,0,2,1,
+76000005,7600003,缩放,icons_component/effect,1003,2,MtScale,0,2,1,
