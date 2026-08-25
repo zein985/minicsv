@@ -1,10 +1,13 @@
 <?php
 /**
  * 通过GET参数id查询同目录CSV文件中的记录
- * 只输出CSV格式数据（表头+匹配行）
+ * 支持多种输出格式: csv, json, txt
  * 
- * 使用方法: script.php?id=123
- * CSV文件: ./1.58.2/utf8/itemdef.csv
+ * 使用方法: 
+ *   script.php?id=123              (默认输出CSV)
+ *   script.php?id=123&format=csv   (输出CSV)
+ *   script.php?id=123&format=json  (输出JSON)
+ *   script.php?id=123&format=txt   (输出纯文本表格)
  */
 
 // 设置错误报告
@@ -20,6 +23,13 @@ if (!isset($_GET['id']) || empty($_GET['id'])) {
 }
 
 $searchId = trim($_GET['id']);
+
+// 获取输出格式 (默认csv)
+$format = isset($_GET['format']) ? strtolower(trim($_GET['format'])) : 'csv';
+$allowedFormats = ['csv', 'json', 'txt'];
+if (!in_array($format, $allowedFormats)) {
+    $format = 'csv';
+}
 
 // 检查CSV文件是否存在
 if (!file_exists($csvFile)) {
@@ -89,19 +99,15 @@ function findRecordById($csvFile, $searchId) {
 // 执行搜索
 $result = findRecordById($csvFile, $searchId);
 
-// 设置纯文本输出
-header('Content-Type: text/plain; charset=utf-8');
-
-// 只输出CSV格式数据
-if ($result === null) {
-    // 未找到记录，只输出空行
-    echo "";
-} else {
-    $headers = $result['headers'];
-    $row = $result['row'];
+/**
+ * 输出CSV格式
+ */
+function outputCsv($headers, $row) {
+    header('Content-Type: text/csv; charset=utf-8');
+    header('Content-Disposition: inline; filename="result.csv"');
+    
     $colCount = max(count($headers), count($row));
     
-    // 输出表头
     $outputHeaders = [];
     for ($i = 0; $i < $colCount; $i++) {
         $header = isset($headers[$i]) ? $headers[$i] : '列' . ($i + 1);
@@ -109,11 +115,93 @@ if ($result === null) {
     }
     echo implode(',', $outputHeaders) . "\n";
     
-    // 输出数据行
     $outputRow = [];
     for ($i = 0; $i < $colCount; $i++) {
         $value = isset($row[$i]) ? $row[$i] : '';
         $outputRow[] = '"' . str_replace('"', '""', $value) . '"';
     }
     echo implode(',', $outputRow) . "\n";
+}
+
+/**
+ * 输出JSON格式
+ */
+function outputJson($headers, $row) {
+    header('Content-Type: application/json; charset=utf-8');
+    
+    $colCount = max(count($headers), count($row));
+    $data = [];
+    
+    for ($i = 0; $i < $colCount; $i++) {
+        $header = isset($headers[$i]) ? $headers[$i] : '列' . ($i + 1);
+        $value = isset($row[$i]) ? $row[$i] : '';
+        $data[$header] = $value;
+    }
+    
+    echo json_encode($data, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT) . "\n";
+}
+
+/**
+ * 输出TXT格式 (纯文本表格)
+ */
+function outputTxt($headers, $row) {
+    header('Content-Type: text/plain; charset=utf-8');
+    
+    $colCount = max(count($headers), count($row));
+    
+    // 计算每列最大宽度
+    $colWidths = [];
+    for ($i = 0; $i < $colCount; $i++) {
+        $header = isset($headers[$i]) ? $headers[$i] : '列' . ($i + 1);
+        $value = isset($row[$i]) ? $row[$i] : '';
+        $colWidths[$i] = max(mb_strlen($header, 'UTF-8'), mb_strlen($value, 'UTF-8'), 4);
+    }
+    
+    // 绘制表头分隔线
+    $line = "+";
+    foreach ($colWidths as $width) {
+        $line .= str_repeat("-", $width + 2) . "+";
+    }
+    echo $line . "\n";
+    
+    // 输出表头
+    echo "|";
+    foreach ($headers as $i => $header) {
+        $display = isset($headers[$i]) ? $headers[$i] : '列' . ($i + 1);
+        $padding = $colWidths[$i] - mb_strlen($display, 'UTF-8');
+        echo " " . $display . str_repeat(" ", $padding) . " |";
+    }
+    echo "\n" . $line . "\n";
+    
+    // 输出数据行
+    echo "|";
+    foreach ($row as $i => $value) {
+        $display = $value;
+        $padding = $colWidths[$i] - mb_strlen($display, 'UTF-8');
+        echo " " . $display . str_repeat(" ", $padding) . " |";
+    }
+    echo "\n" . $line . "\n";
+}
+
+// 根据格式输出
+if ($result === null) {
+    // 未找到记录
+    header('Content-Type: text/plain; charset=utf-8');
+    echo "";
+} else {
+    $headers = $result['headers'];
+    $row = $result['row'];
+    
+    switch ($format) {
+        case 'json':
+            outputJson($headers, $row);
+            break;
+        case 'txt':
+            outputTxt($headers, $row);
+            break;
+        case 'csv':
+        default:
+            outputCsv($headers, $row);
+            break;
+    }
 }
