@@ -1,10 +1,10 @@
 <?php
 /**
  * 通过GET参数id查询同目录CSV文件中的记录
- * 支持多种输出格式: csv, json, txt
+ * 默认输出JSON格式
  * 
  * 使用方法: 
- *   script.php?id=123              (默认输出CSV)
+ *   script.php?id=123              (默认输出JSON)
  *   script.php?id=123&format=csv   (输出CSV)
  *   script.php?id=123&format=json  (输出JSON)
  *   script.php?id=123&format=txt   (输出纯文本表格)
@@ -19,26 +19,26 @@ $csvFile = __DIR__ . '/1.58.2/utf8/itemdef.csv';
 
 // 检查是否提供了id参数
 if (!isset($_GET['id']) || empty($_GET['id'])) {
-    die("错误: 请提供id参数, 例如: ?id=123");
+    die(json_encode(['error' => '请提供id参数, 例如: ?id=123'], JSON_UNESCAPED_UNICODE));
 }
 
 $searchId = trim($_GET['id']);
 
-// 获取输出格式 (默认csv)
-$format = isset($_GET['format']) ? strtolower(trim($_GET['format'])) : 'csv';
+// 获取输出格式 (默认json)
+$format = isset($_GET['format']) ? strtolower(trim($_GET['format'])) : 'json';
 $allowedFormats = ['csv', 'json', 'txt'];
 if (!in_array($format, $allowedFormats)) {
-    $format = 'csv';
+    $format = 'json';
 }
 
 // 检查CSV文件是否存在
 if (!file_exists($csvFile)) {
-    die("错误: CSV文件不存在: " . $csvFile);
+    die(json_encode(['error' => 'CSV文件不存在: ' . $csvFile], JSON_UNESCAPED_UNICODE));
 }
 
 // 检查文件是否可读
 if (!is_readable($csvFile)) {
-    die("错误: CSV文件不可读");
+    die(json_encode(['error' => 'CSV文件不可读'], JSON_UNESCAPED_UNICODE));
 }
 
 /**
@@ -185,23 +185,23 @@ function outputTxt($headers, $row) {
 
 // 根据格式输出
 if ($result === null) {
-    // 未找到记录
-    header('Content-Type: text/plain; charset=utf-8');
-    echo "";
+    // 未找到记录，输出空JSON
+    header('Content-Type: application/json; charset=utf-8');
+    echo json_encode(null, JSON_UNESCAPED_UNICODE) . "\n";
 } else {
     $headers = $result['headers'];
     $row = $result['row'];
     
     switch ($format) {
-        case 'json':
-            outputJson($headers, $row);
+        case 'csv':
+            outputCsv($headers, $row);
             break;
         case 'txt':
             outputTxt($headers, $row);
             break;
-        case 'csv':
+        case 'json':
         default:
-            outputCsv($headers, $row);
+            outputJson($headers, $row);
             break;
     }
 }
