@@ -1,18 +1,18 @@
 <?php
 /**
- * 通过GET参数id查询CSV文件中的记录
+ * 通过GET参数id查询同目录CSV文件中的记录
  * 只输出CSV格式数据（表头+匹配行）
  * 
  * 使用方法: script.php?id=123
- * CSV文件格式: 第一行为表头
+ * CSV文件: ./1.58.2/utf8/itemdef.csv
  */
 
 // 设置错误报告
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-// CSV文件路径（可修改为您的实际路径）
-$csvFile = '/1.58.2/utf8/itemdef.csv';
+// CSV文件路径（相对于当前PHP文件的目录）
+$csvFile = __DIR__ . '/1.58.2/utf8/itemdef.csv';
 
 // 检查是否提供了id参数
 if (!isset($_GET['id']) || empty($_GET['id'])) {
